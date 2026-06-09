@@ -7,15 +7,20 @@ import { SearchControls } from "./components/SearchControls";
 import { ViewSwitcher } from "./components/ViewSwitcher";
 import { useDyeColors } from "./hooks/useDyeColors";
 import { useInventory } from "./hooks/useInventory";
-import type { SortMode, ViewMode } from "./types";
+import { useViewFromUrl } from "./hooks/useViewFromUrl";
+import type { SortMode } from "./types";
 import { setupMissingIconsDevTools } from "./utils/missingIcons";
 
 export default function App() {
   const { shops, items, loading, error } = useInventory();
-  const { dyeGroups, loading: dyeLoading, error: dyeError, load: loadDyeColors } =
-    useDyeColors();
+  const {
+    dyeGroups,
+    loading: dyeLoading,
+    error: dyeError,
+    load: loadDyeColors,
+  } = useDyeColors();
 
-  const [view, setView] = useState<ViewMode>("items");
+  const view = useViewFromUrl("items");
   const [query, setQuery] = useState("");
   const [shopKey, setShopKey] = useState("");
   const [sortMode, setSortMode] = useState<SortMode>("shop");
@@ -51,7 +56,7 @@ export default function App() {
       <Header shopCount={shops.length} itemCount={items.length} />
 
       <main>
-        <ViewSwitcher view={view} onChange={setView} />
+        <ViewSwitcher view={view} />
 
         <section hidden={!showItems} aria-hidden={!showItems}>
           <SearchControls
@@ -79,7 +84,11 @@ export default function App() {
         </section>
 
         <section hidden={showItems} aria-hidden={showItems}>
-          <DyeView dyeGroups={dyeGroups} loading={dyeLoading} error={dyeError} />
+          <DyeView
+            dyeGroups={dyeGroups}
+            loading={dyeLoading}
+            error={dyeError}
+          />
         </section>
       </main>
 

@@ -197,6 +197,7 @@ main {
   border-radius: 6px;
   color: var(--muted);
   cursor: pointer;
+  text-decoration: none;
   font: inherit;
   font-weight: 800;
   min-height: 38px;

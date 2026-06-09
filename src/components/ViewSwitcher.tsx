@@ -2,28 +2,25 @@ import type { ViewMode } from "../types";
 
 interface ViewSwitcherProps {
   view: ViewMode;
-  onChange: (view: ViewMode) => void;
 }
 
-export function ViewSwitcher({ view, onChange }: ViewSwitcherProps) {
+export function ViewSwitcher({ view }: ViewSwitcherProps) {
   return (
     <section className="view-switcher" aria-label="Shop view switcher">
-      <button
+      <a
         className={`view-button${view === "items" ? " active" : ""}`}
-        type="button"
-        aria-pressed={view === "items"}
-        onClick={() => onChange("items")}
+        href="#items"
+        aria-current={view === "items" ? "page" : undefined}
       >
         Shop View
-      </button>
-      <button
+      </a>
+      <a
         className={`view-button${view === "dye" ? " active" : ""}`}
-        type="button"
-        aria-pressed={view === "dye"}
-        onClick={() => onChange("dye")}
+        href="#dye"
+        aria-current={view === "dye" ? "page" : undefined}
       >
         Dye Color View
-      </button>
+      </a>
     </section>
   );
 }
