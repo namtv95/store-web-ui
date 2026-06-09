@@ -3,6 +3,7 @@ import { DyeView } from "./components/DyeView";
 import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { ItemsView } from "./components/ItemsView";
+import { ScrollToTop } from "./components/ScrollToTop";
 import { SearchControls } from "./components/SearchControls";
 import { ViewSwitcher } from "./components/ViewSwitcher";
 import { useDyeColors } from "./hooks/useDyeColors";
@@ -93,6 +94,7 @@ export default function App() {
       </main>
 
       <Footer />
+      <ScrollToTop />
     </>
   );
 }
