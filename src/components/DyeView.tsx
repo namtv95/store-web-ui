@@ -51,7 +51,7 @@ export const DyeView = memo(function DyeView({
           >
             <span className="dye-tab-icon">
               <img
-                src={assetUrl(`assets/dye/${index + 1}.png`)}
+                src={assetUrl(`assets/dye/${index + 1}.webp`)}
                 alt=""
                 loading="lazy"
                 onError={(event) => event.currentTarget.remove()}
