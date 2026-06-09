@@ -423,10 +423,24 @@ select:focus {
 }
 
 .results-grid {
+  --result-columns: 4;
+  display: block;
+  padding: 16px;
+}
+
+.results-grid-spacer {
+  position: relative;
+  width: 100%;
+}
+
+.results-grid-row {
   display: grid;
   gap: 8px;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  padding: 16px;
+  grid-template-columns: repeat(var(--result-columns), minmax(0, 1fr));
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 
 .item-card {
