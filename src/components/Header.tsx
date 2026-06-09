@@ -13,7 +13,7 @@ export function Header({ shopCount, itemCount }: HeaderProps) {
         <a className="brand" href="#top" aria-label="Expanded Vendor Inventory home">
           <img
             className="brand-mark"
-            src={assetUrl("assets/avatar.jpg")}
+            src={assetUrl("assets/avatar.webp")}
             alt=""
             loading="lazy"
           />
