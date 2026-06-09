@@ -434,6 +434,7 @@ select:focus {
 }
 
 .results-grid-row {
+  align-items: stretch;
   display: grid;
   gap: 8px;
   grid-template-columns: repeat(var(--result-columns), minmax(0, 1fr));
@@ -447,10 +448,9 @@ select:focus {
   align-items: center;
   border: 1px solid var(--line);
   border-radius: 8px;
-  contain-intrinsic-size: auto 58px;
-  content-visibility: auto;
   display: flex;
   gap: 10px;
+  height: 94px;
   min-width: 0;
   padding: 8px;
 }

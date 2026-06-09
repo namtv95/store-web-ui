@@ -8,7 +8,7 @@ import { ItemCard } from "./ItemCard";
 import { ShopPanel } from "./ShopPanel";
 
 const GRID_GAP = 8;
-const ESTIMATED_ROW_HEIGHT = 76;
+const ESTIMATED_ROW_HEIGHT = 94;
 
 interface ItemsViewProps {
   shops: Shop[];
