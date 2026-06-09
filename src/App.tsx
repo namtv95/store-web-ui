@@ -10,7 +10,6 @@ import { useDyeColors } from "./hooks/useDyeColors";
 import { useInventory } from "./hooks/useInventory";
 import { useViewFromUrl } from "./hooks/useViewFromUrl";
 import type { SortMode } from "./types";
-import { setupMissingIconsDevTools } from "./utils/missingIcons";
 
 export default function App() {
   const { shops, items, loading, error } = useInventory();
@@ -29,12 +28,6 @@ export default function App() {
   useEffect(() => {
     void loadDyeColors();
   }, [loadDyeColors]);
-
-  useEffect(() => {
-    if (!loading && items.length > 0) {
-      setupMissingIconsDevTools(() => items);
-    }
-  }, [items, loading]);
 
   const handleShopSelect = useCallback((shopName: string) => {
     setShopKey((current) => (current === shopName ? "" : shopName));
@@ -80,7 +73,6 @@ export default function App() {
             error={error}
             onShopSelect={handleShopSelect}
             onClearShop={handleClearShop}
-            collectMissingIcons={showItems}
           />
         </section>
 

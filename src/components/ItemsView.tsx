@@ -15,7 +15,6 @@ interface ItemsViewProps {
   error: string | null;
   onShopSelect: (shopName: string) => void;
   onClearShop: () => void;
-  collectMissingIcons?: boolean;
 }
 
 export const ItemsView = memo(function ItemsView({
@@ -28,7 +27,6 @@ export const ItemsView = memo(function ItemsView({
   error,
   onShopSelect,
   onClearShop,
-  collectMissingIcons = true,
 }: ItemsViewProps) {
   const filtered = useMemo(
     () => sortItems(filterItems(items, query, shopKey), sortMode),
@@ -78,7 +76,6 @@ export const ItemsView = memo(function ItemsView({
             <ItemCard
               key={`${item.shopIndex}-${item.itemIndex}-${item.key}`}
               item={item}
-              collectMissing={collectMissingIcons}
             />
           ))}
         </div>

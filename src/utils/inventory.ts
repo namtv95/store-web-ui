@@ -64,12 +64,37 @@ export function sortItems(items: FlatItem[], sortMode: SortMode): FlatItem[] {
 
 export const DEFAULT_ITEM_ICON_SRC = `${import.meta.env.BASE_URL}assets/icons/missing-icon.svg`;
 
+const missingItemIconSrcs = new Set<string>();
+
 export function itemIconSrc(item: FlatItem): string {
+  const src = originalItemIconSrc(item);
+  return hasMissingItemIcon(src) ? DEFAULT_ITEM_ICON_SRC : src;
+}
+
+export function originalItemIconSrc(item: FlatItem): string {
   const base = import.meta.env.BASE_URL;
   if (item.item_type === "Disc9") {
     return `${base}assets/icons/${encodeURIComponent(String(item.key) + "_9")}.webp`;
   }
   return `${base}assets/icons/${encodeURIComponent(item.key)}.webp`;
+}
+
+export function rememberMissingItemIcon(src: string): void {
+  if (src !== DEFAULT_ITEM_ICON_SRC) {
+    missingItemIconSrcs.add(src);
+    missingItemIconSrcs.add(toAbsoluteAssetUrl(src));
+  }
+}
+
+function hasMissingItemIcon(src: string): boolean {
+  return missingItemIconSrcs.has(src) || missingItemIconSrcs.has(toAbsoluteAssetUrl(src));
+}
+
+function toAbsoluteAssetUrl(src: string): string {
+  if (typeof window === "undefined") {
+    return src;
+  }
+  return new URL(src, window.location.href).href;
 }
 
 export function shopIconSrc(icon: string): string {
@@ -85,6 +110,7 @@ export function replaceWithDefaultIcon(image: HTMLImageElement): void {
     image.onerror = null;
     return;
   }
+  rememberMissingItemIcon(image.src);
   image.src = DEFAULT_ITEM_ICON_SRC;
   image.classList.add("item-icon--fallback");
 }

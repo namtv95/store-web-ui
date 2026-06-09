@@ -1,25 +1,17 @@
 import { memo, useCallback } from "react";
 import type { FlatItem } from "../types";
 import { itemIconSrc, replaceWithDefaultIcon } from "../utils/inventory";
-import { recordMissingItemIcon } from "../utils/missingIcons";
 
 interface ItemCardProps {
   item: FlatItem;
-  collectMissing?: boolean;
 }
 
-export const ItemCard = memo(function ItemCard({
-  item,
-  collectMissing = true,
-}: ItemCardProps) {
+export const ItemCard = memo(function ItemCard({ item }: ItemCardProps) {
   const onError = useCallback(
     (event: React.SyntheticEvent<HTMLImageElement>) => {
-      if (collectMissing) {
-        recordMissingItemIcon(item, event.currentTarget.src);
-      }
       replaceWithDefaultIcon(event.currentTarget);
     },
-    [collectMissing, item],
+    [],
   );
 
   return (
