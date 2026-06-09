@@ -1,5 +1,7 @@
-import { memo } from "react";
+import { memo, useEffect, useState } from "react";
 import type { Shop, SortMode } from "../types";
+
+const SEARCH_DEBOUNCE_MS = 500;
 
 interface SearchControlsProps {
   query: string;
@@ -22,6 +24,25 @@ export const SearchControls = memo(function SearchControls({
   onSortChange,
   onClear,
 }: SearchControlsProps) {
+  const [inputValue, setInputValue] = useState(query);
+
+  useEffect(() => {
+    setInputValue(query);
+  }, [query]);
+
+  useEffect(() => {
+    const timeoutId = window.setTimeout(() => {
+      onQueryChange(inputValue.trim());
+    }, SEARCH_DEBOUNCE_MS);
+
+    return () => window.clearTimeout(timeoutId);
+  }, [inputValue, onQueryChange]);
+
+  const handleClear = () => {
+    setInputValue("");
+    onClear();
+  };
+
   return (
     <section className="controls" aria-label="Search controls">
       <label className="search-box">
@@ -30,8 +51,8 @@ export const SearchControls = memo(function SearchControls({
           type="search"
           autoComplete="off"
           placeholder="Type item name, shop name..."
-          value={query}
-          onChange={(event) => onQueryChange(event.target.value.trim())}
+          value={inputValue}
+          onChange={(event) => setInputValue(event.target.value)}
         />
       </label>
       <label className="select-box">
@@ -57,7 +78,7 @@ export const SearchControls = memo(function SearchControls({
           <option value="string_key">String key</option>
         </select>
       </label>
-      <button className="clear-button" type="button" onClick={onClear}>
+      <button className="clear-button" type="button" onClick={handleClear}>
         Clear
       </button>
     </section>
