@@ -8446,6 +8446,12 @@
         "string_key": "Recipe_Book_OneHandWeapon_I"
       },
       {
+        "key": 1000405,
+        "item_name": "Ranged Weapons of the World - Bows, Vol. I",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Book_RangeWeapon_Wood_I"
+      },
+      {
         "key": 10044,
         "item_name": "Shroud Lantern",
         "item_type": "Disc0",
