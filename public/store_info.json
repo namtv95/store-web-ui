@@ -754,6 +754,24 @@
         "item_name": "Sigil of Solidarity (Phoenix)",
         "item_type": "Disc0",
         "string_key": "Pet_Phoenix_Amulet"
+      },
+      {
+        "key": 1004726,
+        "item_name": "Small Haven for Pets",
+        "item_type": "Disc0",
+        "string_key": "Pet_Slot_Expansion_1_3"
+      },
+      {
+        "key": 1004765,
+        "item_name": "Haven for Pets",
+        "item_type": "Disc0",
+        "string_key": "Pet_Slot_Expansion_2_3"
+      },
+      {
+        "key": 1004720,
+        "item_name": "Large Haven for Pets",
+        "item_type": "Disc0",
+        "string_key": "Pet_Slot_Expansion_3"
       }
     ]
   },
