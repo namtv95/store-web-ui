@@ -34,7 +34,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_BASE_PATH: /crimson-dersert/
+          VITE_BASE_PATH: /store-web-ui/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
