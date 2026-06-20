@@ -1,784 +1,8 @@
 [
   {
-    "name": "Bruna",
-    "job_name": "Saddlery",
-    "icon": "bruna",
-    "localtion": "https://mapgenie.io/crimson-desert/maps/pywel?locationIds=544383",
-    "sell_list": [
-      {
-        "key": 1000427,
-        "item_name": "Velok Champron",
-        "item_type": "Disc0",
-        "string_key": "Bellac_HorseArmor_Helm"
-      },
-      {
-        "key": 1511007,
-        "item_name": "Berkei Barding",
-        "item_type": "Disc0",
-        "string_key": "Berkei_HorseArmor_Armor"
-      },
-      {
-        "key": 1512007,
-        "item_name": "Berkei Champron",
-        "item_type": "Disc0",
-        "string_key": "Berkei_HorseArmor_Helm"
-      },
-      {
-        "key": 1513007,
-        "item_name": "Berkei Saddle",
-        "item_type": "Disc0",
-        "string_key": "Berkei_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514007,
-        "item_name": "Berkei Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Berkei_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1003206,
-        "item_name": "Blue Scout Champron",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_HorseArmor_Helm"
-      },
-      {
-        "key": 1003207,
-        "item_name": "Blue Scout Saddle",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_HorseArmor_Saddle"
-      },
-      {
-        "key": 1003208,
-        "item_name": "Blue Scout Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Bilibili_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1002957,
-        "item_name": "Sighting of Rokade",
-        "item_type": "Disc0",
-        "string_key": "Black_Horse_Report"
-      },
-      {
-        "key": 1001761,
-        "item_name": "Branique Saddle",
-        "item_type": "Disc0",
-        "string_key": "Branik_HorseArmor_Saddle"
-      },
-      {
-        "key": 1002851,
-        "item_name": "Cernos Barding",
-        "item_type": "Disc0",
-        "string_key": "Cernos_HorseArmor_Armor"
-      },
-      {
-        "key": 1511008,
-        "item_name": "Delesyian Barding",
-        "item_type": "Disc0",
-        "string_key": "Delesian_HorseArmor_Armor"
-      },
-      {
-        "key": 1512008,
-        "item_name": "Delesyian Champron",
-        "item_type": "Disc0",
-        "string_key": "Delesian_HorseArmor_Helm"
-      },
-      {
-        "key": 1513008,
-        "item_name": "Delesyian Saddle",
-        "item_type": "Disc0",
-        "string_key": "Delesian_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514008,
-        "item_name": "Delesyian Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Delesian_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1001938,
-        "item_name": "Delesyian Soldier's Cloth Barding",
-        "item_type": "Disc0",
-        "string_key": "Delesian_Soldier_HorseArmor_Armor"
-      },
-      {
-        "key": 1001070,
-        "item_name": "Delmar Saddle",
-        "item_type": "Disc0",
-        "string_key": "Delmar_HorseArmor_Saddle"
-      },
-      {
-        "key": 1511012,
-        "item_name": "Demenissian Barding",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_HorseArmor_Armor"
-      },
-      {
-        "key": 1512012,
-        "item_name": "Demenissian Champron",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_HorseArmor_Helm"
-      },
-      {
-        "key": 1513012,
-        "item_name": "Demenissian Saddle",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514012,
-        "item_name": "Demenissian Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1511013,
-        "item_name": "Demenissian Soldier's Cloth Barding",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_Soldier_HorseArmor_Armor"
-      },
-      {
-        "key": 1511006,
-        "item_name": "Sahareum Barding",
-        "item_type": "Disc0",
-        "string_key": "Desert_HorseArmor_Armor"
-      },
-      {
-        "key": 1512006,
-        "item_name": "Sahareum Champron",
-        "item_type": "Disc0",
-        "string_key": "Desert_HorseArmor_Helm"
-      },
-      {
-        "key": 1513006,
-        "item_name": "Sahareum Saddle",
-        "item_type": "Disc0",
-        "string_key": "Desert_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514006,
-        "item_name": "Sahareum Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Desert_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1002269,
-        "item_name": "Abyssal Dragon Armor",
-        "item_type": "Disc0",
-        "string_key": "Dragon_Armor_01"
-      },
-      {
-        "key": 1002850,
-        "item_name": "Grenbar Cloth Barding",
-        "item_type": "Disc0",
-        "string_key": "Grenvar_HorseArmor_Armor"
-      },
-      {
-        "key": 1002078,
-        "item_name": "Hagmund Barding",
-        "item_type": "Disc0",
-        "string_key": "Hagmundt_HorseArmor_Armor"
-      },
-      {
-        "key": 1002197,
-        "item_name": "Hagmund Champron",
-        "item_type": "Disc0",
-        "string_key": "Hagmundt_HorseArmor_Helm"
-      },
-      {
-        "key": 1002173,
-        "item_name": "Hagmund Saddle",
-        "item_type": "Disc0",
-        "string_key": "Hagmundt_HorseArmor_Saddle"
-      },
-      {
-        "key": 1511010,
-        "item_name": "Hernandian Barding",
-        "item_type": "Disc0",
-        "string_key": "Hernand_HorseArmor_Armor"
-      },
-      {
-        "key": 1512010,
-        "item_name": "Hernandian Champron",
-        "item_type": "Disc0",
-        "string_key": "Hernand_HorseArmor_Helm"
-      },
-      {
-        "key": 1513010,
-        "item_name": "Hernandian Saddle",
-        "item_type": "Disc0",
-        "string_key": "Hernand_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514010,
-        "item_name": "Hernandian Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Hernand_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1511014,
-        "item_name": "Hernandian Soldier's Cloth Barding",
-        "item_type": "Disc0",
-        "string_key": "Hernand_Soldier_HorseArmor_Armor"
-      },
-      {
-        "key": 749003,
-        "item_name": "Hay",
-        "item_type": "Disc0",
-        "string_key": "HorseFeed_Hay"
-      },
-      {
-        "key": 749201,
-        "item_name": "Horse Tonic",
-        "item_type": "Disc0",
-        "string_key": "HorseFeed_Hp_Potion"
-      },
-      {
-        "key": 749101,
-        "item_name": "Sugar Cubes",
-        "item_type": "Disc0",
-        "string_key": "HorseFeed_Lump_Sugar"
-      },
-      {
-        "key": 749203,
-        "item_name": "Horse Stimulant",
-        "item_type": "Disc0",
-        "string_key": "HorseFeed_Speed_Potion"
-      },
-      {
-        "key": 749007,
-        "item_name": "Sugar Beet",
-        "item_type": "Disc0",
-        "string_key": "HorseFeed_Sugar_Beet"
-      },
-      {
-        "key": 1003287,
-        "item_name": "Bronze Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Brass_horseshoe_II"
-      },
-      {
-        "key": 1003289,
-        "item_name": "Four-Leaf Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Clover_Horseshoe_II"
-      },
-      {
-        "key": 1003288,
-        "item_name": "Shabby Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Shabby_horseshoe_II"
-      },
-      {
-        "key": 1515001,
-        "item_name": "Silver Iron Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Shoe"
-      },
-      {
-        "key": 1000592,
-        "item_name": "Ironstone Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Shoe_I"
-      },
-      {
-        "key": 1000593,
-        "item_name": "Bow Knot Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Shoe_II"
-      },
-      {
-        "key": 1000594,
-        "item_name": "Steelheart Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Shoe_III"
-      },
-      {
-        "key": 1003656,
-        "item_name": "Silvermoon Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Silvermoon_Horseshoe_II"
-      },
-      {
-        "key": 1003655,
-        "item_name": "Steel Horseshoes",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Steel_Horseshoe_II"
-      },
-      {
-        "key": 1000586,
-        "item_name": "Crude Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1000587,
-        "item_name": "Wells Military Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup_I"
-      },
-      {
-        "key": 1000588,
-        "item_name": "Decorative Dragon Head Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup_II"
-      },
-      {
-        "key": 1000589,
-        "item_name": "Gilded Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup_III"
-      },
-      {
-        "key": 1000590,
-        "item_name": "Fine Leather Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup_IV"
-      },
-      {
-        "key": 1000591,
-        "item_name": "Exclaire Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_Stirrup_V"
-      },
-      {
-        "key": 1002770,
-        "item_name": "Marcello Stirrups",
-        "item_type": "Disc0",
-        "string_key": "HorseShoe_HorseArmor_marquel_Stirrup"
-      },
-      {
-        "key": 1511009,
-        "item_name": "Calphadean Barding",
-        "item_type": "Disc0",
-        "string_key": "Kritha_HorseArmor_Armor"
-      },
-      {
-        "key": 1512009,
-        "item_name": "Exclaire Champron",
-        "item_type": "Disc0",
-        "string_key": "Kritha_HorseArmor_Helm"
-      },
-      {
-        "key": 1513009,
-        "item_name": "Exclaire Saddle",
-        "item_type": "Disc0",
-        "string_key": "Kritha_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514009,
-        "item_name": "Calphadean Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Kritha_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1562354751,
-        "item_name": "Exclaire Barding",
-        "item_type": "Disc0",
-        "string_key": "Marni_HorseArmor_Armor"
-      },
-      {
-        "key": 64382088,
-        "item_name": "Wells Military Champron",
-        "item_type": "Disc0",
-        "string_key": "Marni_HorseArmor_Helm"
-      },
-      {
-        "key": 1000481,
-        "item_name": "Marni Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Marni_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1513000,
-        "item_name": "Shabby Horse Saddle",
-        "item_type": "Disc0",
-        "string_key": "Old_HorseArmor_Saddle"
-      },
-      {
-        "key": 1511011,
-        "item_name": "Varnian Barding",
-        "item_type": "Disc0",
-        "string_key": "Orjekel_HorseArmor_Armor"
-      },
-      {
-        "key": 1512011,
-        "item_name": "Varnian Champron",
-        "item_type": "Disc0",
-        "string_key": "Orjekel_HorseArmor_Helm"
-      },
-      {
-        "key": 1513011,
-        "item_name": "Varnian Saddle",
-        "item_type": "Disc0",
-        "string_key": "Orjekel_HorseArmor_Saddle"
-      },
-      {
-        "key": 1514011,
-        "item_name": "Varnian Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Orjekel_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1001419,
-        "item_name": "Rosbar Champron",
-        "item_type": "Disc0",
-        "string_key": "Rosvar_HorseArmor_Helm"
-      },
-      {
-        "key": 1001098,
-        "item_name": "Servano Saddle",
-        "item_type": "Disc0",
-        "string_key": "Servano_HorseArmor_Saddle"
-      },
-      {
-        "key": 1511001,
-        "item_name": "Hyperion Barding",
-        "item_type": "Disc0",
-        "string_key": "Troopers_HorseArmor_Armor"
-      },
-      {
-        "key": 1512001,
-        "item_name": "Hyperion Champron",
-        "item_type": "Disc0",
-        "string_key": "Troopers_HorseArmor_Helm"
-      },
-      {
-        "key": 1513001,
-        "item_name": "Hyperion Saddle",
-        "item_type": "Disc0",
-        "string_key": "Troopers_HorseArmor_Saddle"
-      },
-      {
-        "key": 1001812,
-        "item_name": "Wells Military Saddle",
-        "item_type": "Disc0",
-        "string_key": "Troopers_HorseArmor_Saddle_I"
-      },
-      {
-        "key": 1514001,
-        "item_name": "Hyperion Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Troopers_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1003195,
-        "item_name": "Purple Scout Champron",
-        "item_type": "Disc0",
-        "string_key": "Twich_HorseArmor_Helm"
-      },
-      {
-        "key": 1003196,
-        "item_name": "Purple Scout Saddle",
-        "item_type": "Disc0",
-        "string_key": "Twich_HorseArmor_Saddle"
-      },
-      {
-        "key": 1003197,
-        "item_name": "Purple Scout Stirrups",
-        "item_type": "Disc0",
-        "string_key": "Twich_HorseArmor_Stirrup"
-      },
-      {
-        "key": 1002806,
-        "item_name": "Varken Champron",
-        "item_type": "Disc0",
-        "string_key": "Varken_HorseArmor_Helm"
-      },
-      {
-        "key": 1511015,
-        "item_name": "Wagon Barding",
-        "item_type": "Disc0",
-        "string_key": "Wagon_HorseArmor_Armor"
-      },
-      {
-        "key": 1000773,
-        "item_name": "Wagon Barding II",
-        "item_type": "Disc0",
-        "string_key": "Wagon_HorseArmor_Armor_II"
-      },
-      {
-        "key": 1000475,
-        "item_name": "A.T.A.G. Thrusterpack Mk I",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Backpack_01"
-      },
-      {
-        "key": 1001095,
-        "item_name": "A.T.A.G. Thrusterpack Mk II",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Backpack_02"
-      },
-      {
-        "key": 1001068,
-        "item_name": "A.T.A.G. Thrusterpack Mk III",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Backpack_03"
-      },
-      {
-        "key": 1000261,
-        "item_name": "A.T.A.G. Plating Mk I",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Body_01"
-      },
-      {
-        "key": 1001094,
-        "item_name": "A.T.A.G. Plating Mk II",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Body_02"
-      },
-      {
-        "key": 1000758,
-        "item_name": "A.T.A.G. Plating Mk III",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Body_03"
-      },
-      {
-        "key": 1001429,
-        "item_name": "A.T.A.G. Boots Mk I",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Foot_01"
-      },
-      {
-        "key": 1001096,
-        "item_name": "A.T.A.G. Boots Mk II",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Foot_02"
-      },
-      {
-        "key": 1000855,
-        "item_name": "A.T.A.G. Boots Mk III",
-        "item_type": "Disc0",
-        "string_key": "WarRobot_Foot_03"
-      },
-      {
-        "key": 1002121,
-        "item_name": "Wells Military Barding",
-        "item_type": "Disc0",
-        "string_key": "Wells_HorseArmor_Armor"
-      },
-      {
-        "key": 1004403,
-        "item_name": "Deer Saddle",
-        "item_type": "Disc0",
-        "string_key": "deer_Armor"
-      },
-      {
-        "key": 1004398,
-        "item_name": "Wolf Saddle",
-        "item_type": "Disc0",
-        "string_key": "Wolf_Armor"
-      },
-      {
-        "key": 1004397,
-        "item_name": "Bear Saddle",
-        "item_type": "Disc0",
-        "string_key": "Bear_Armor"
-      },
-      {
-        "key": 1004402,
-        "item_name": "Kuku Bird Saddle",
-        "item_type": "Disc0",
-        "string_key": "KuKubird_Armor_I"
-      },
-      {
-        "key": 1004404,
-        "item_name": "Ibex Saddle",
-        "item_type": "Disc0",
-        "string_key": "AlpineIbex_Armor"
-      },
-      {
-        "key": 1004400,
-        "item_name": "Raptor Saddle",
-        "item_type": "Disc0",
-        "string_key": "carmabirdsaurus_Armor"
-      },
-      {
-        "key": 1004406,
-        "item_name": "Warthog Saddle",
-        "item_type": "Disc0",
-        "string_key": "Warthog_Armor"
-      },
-      {
-        "key": 1004399,
-        "item_name": "Giant Iguana Saddle",
-        "item_type": "Disc0",
-        "string_key": "GiantIguana_Armor"
-      },
-      {
-        "key": 1004405,
-        "item_name": "Embroidered Camel Saddle",
-        "item_type": "Disc0",
-        "string_key": "Camel_Armor"
-      },
-      {
-        "key": 1004446,
-        "item_name": "Wyvern Saddle",
-        "item_type": "Disc0",
-        "string_key": "wyvern_Armor"
-      },
-      {
-        "key": 1004401,
-        "item_name": "Kuku Bird Hatchling Saddle",
-        "item_type": "Disc0",
-        "string_key": "KuKubird_Armor"
-      },
-      {
-        "key": 1004502,
-        "item_name": "Small Wyvern Aviator Hat",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Fabric_Helm_WyvernBaby"
-      },
-      {
-        "key": 1004516,
-        "item_name": "Small Kuku Bird Eggshell",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Helm_Cucubirdbaby"
-      },
-      {
-        "key": 1000768,
-        "item_name": "Peddler Cat Outfit",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_backpack_Armor_Cat"
-      },
-      {
-        "key": 1000118,
-        "item_name": "Peddler Cat Hat",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_backpack_Helm_Cat"
-      },
-      {
-        "key": 1003925,
-        "item_name": "Cat Visionette Neckerchief",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Marni_Armor"
-      },
-      {
-        "key": 1003924,
-        "item_name": "Cat Visionette",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Marni_Helm"
-      },
-      {
-        "key": 1000757,
-        "item_name": "Uniform Cat Outfit",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Musket_Armor_Cat"
-      },
-      {
-        "key": 1000760,
-        "item_name": "Uniform Cat Hat",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Musket_Helm_Cat"
-      },
-      {
-        "key": 1000014,
-        "item_name": "Cat Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Plate_Armor_Cat"
-      },
-      {
-        "key": 1002049,
-        "item_name": "Puppy Plate Armor",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Plate_Armor_Dog"
-      },
-      {
-        "key": 1000006,
-        "item_name": "Cat Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Plate_Helm_Cat"
-      },
-      {
-        "key": 1002048,
-        "item_name": "Puppy Plate Helm",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Plate_Helm_Dog"
-      },
-      {
-        "key": 1001437,
-        "item_name": "Rescue Puppy Outfit",
-        "item_type": "Disc0",
-        "string_key": "PetArmor_Rescue_Armor_Dog"
-      },
-      {
-        "key": 1004287,
-        "item_name": "Sigil of Valor",
-        "item_type": "Disc0",
-        "string_key": "Pet_Attackable_Amulet"
-      },
-      {
-        "key": 1003929,
-        "item_name": "Sigil of Bonding",
-        "item_type": "Disc0",
-        "string_key": "Pet_Bond_Amulet"
-      },
-      {
-        "key": 1004315,
-        "item_name": "Hunter's Sigil",
-        "item_type": "Disc0",
-        "string_key": "Pet_Huntable_Amulet"
-      },
-      {
-        "key": 1003843,
-        "item_name": "Sigil of Solidarity (White Bear)",
-        "item_type": "Disc0",
-        "string_key": "Riding_Bear_Amulet"
-      },
-      {
-        "key": 1003844,
-        "item_name": "Sigil of Solidarity (Silver Fang)",
-        "item_type": "Disc0",
-        "string_key": "Riding_Wolf_Amulet"
-      },
-      {
-        "key": 1003845,
-        "item_name": "Sigil of Solidarity (Snowwhite Deer)",
-        "item_type": "Disc0",
-        "string_key": "Riding_Deer_Amulet"
-      },
-      {
-        "key": 1003846,
-        "item_name": "Sigil of Solidarity (Icicle Edge Alpine Ibex)",
-        "item_type": "Disc0",
-        "string_key": "Riding_AlpineIbex_Amulet"
-      },
-      {
-        "key": 1003847,
-        "item_name": "Sigil of Solidarity (Rock Tusk Warthog)",
-        "item_type": "Disc0",
-        "string_key": "Riding_Warthog_Amulet"
-      },
-      {
-        "key": 1003921,
-        "item_name": "Sigil of Solidarity (Phoenix)",
-        "item_type": "Disc0",
-        "string_key": "Pet_Phoenix_Amulet"
-      },
-      {
-        "key": 1004726,
-        "item_name": "Small Haven for Pets",
-        "item_type": "Disc0",
-        "string_key": "Pet_Slot_Expansion_1_3"
-      },
-      {
-        "key": 1004765,
-        "item_name": "Haven for Pets",
-        "item_type": "Disc0",
-        "string_key": "Pet_Slot_Expansion_2_3"
-      },
-      {
-        "key": 1004720,
-        "item_name": "Large Haven for Pets",
-        "item_type": "Disc0",
-        "string_key": "Pet_Slot_Expansion_3"
-      }
-    ]
-  },
-  {
-    "name": "Glenbright Farm Owner",
-    "job_name": "Produce Shop",
-    "icon": "glenbright farm owner",
+    "name": "Nancy",
+    "job_name": "Butchery",
+    "icon": "nancy",
     "localtion": "",
     "sell_list": [
       {
@@ -1378,9 +602,9 @@
     ]
   },
   {
-    "name": "Vellua Farm Owner",
-    "job_name": "Produce Shop",
-    "icon": "vellua farm owner",
+    "name": "Mariana",
+    "job_name": "Butchery",
+    "icon": "mariana",
     "localtion": "",
     "sell_list": [
       {
@@ -2442,1180 +1666,778 @@
     ]
   },
   {
-    "name": "Sunset Valley Farm Owner",
-    "job_name": "Produce Shop",
-    "icon": "sunset valley farm owner",
-    "localtion": "",
+    "name": "Bruna",
+    "job_name": "Saddlery",
+    "icon": "bruna",
+    "localtion": "https://mapgenie.io/crimson-desert/maps/pywel?locationIds=544383",
     "sell_list": [
       {
-        "key": 2200,
-        "item_name": "Stub Arrow",
+        "key": 1000427,
+        "item_name": "Velok Champron",
         "item_type": "Disc0",
-        "string_key": "Pyeonjeon_Arrow"
+        "string_key": "Bellac_HorseArmor_Helm"
       },
       {
-        "key": 50001,
-        "item_name": "Arrow",
+        "key": 1511007,
+        "item_name": "Berkei Barding",
         "item_type": "Disc0",
-        "string_key": "Arrow"
+        "string_key": "Berkei_HorseArmor_Armor"
       },
       {
-        "key": 50003,
-        "item_name": "Poison Arrow",
+        "key": 1512007,
+        "item_name": "Berkei Champron",
         "item_type": "Disc0",
-        "string_key": "Poison_Arrow"
+        "string_key": "Berkei_HorseArmor_Helm"
       },
       {
-        "key": 50011,
-        "item_name": "Whistling Arrow",
+        "key": 1513007,
+        "item_name": "Berkei Saddle",
         "item_type": "Disc0",
-        "string_key": "Hyosi_Arrow"
+        "string_key": "Berkei_HorseArmor_Saddle"
       },
       {
-        "key": 1000070,
-        "item_name": "Sleep Arrow",
+        "key": 1514007,
+        "item_name": "Berkei Stirrups",
         "item_type": "Disc0",
-        "string_key": "Sleep_Arrow"
+        "string_key": "Berkei_HorseArmor_Stirrup"
       },
       {
-        "key": 1001321,
-        "item_name": "Explosive Arrow",
+        "key": 1003206,
+        "item_name": "Blue Scout Champron",
         "item_type": "Disc0",
-        "string_key": "Bomb_Arrow"
+        "string_key": "Bilibili_HorseArmor_Helm"
       },
       {
-        "key": 1002557,
-        "item_name": "Replenishing Arrows",
+        "key": 1003207,
+        "item_name": "Blue Scout Saddle",
         "item_type": "Disc0",
-        "string_key": "Quiver"
+        "string_key": "Bilibili_HorseArmor_Saddle"
       },
       {
-        "key": 1000372,
-        "item_name": "Bullet",
+        "key": 1003208,
+        "item_name": "Blue Scout Stirrups",
         "item_type": "Disc0",
-        "string_key": "Bullet"
+        "string_key": "Bilibili_HorseArmor_Stirrup"
       },
       {
-        "key": 1001320,
-        "item_name": "Buckshot Bullet",
+        "key": 1002957,
+        "item_name": "Sighting of Rokade",
         "item_type": "Disc0",
-        "string_key": "Shotgun_Bullet"
+        "string_key": "Black_Horse_Report"
       },
       {
-        "key": 1002125,
-        "item_name": "Silver Bullet",
+        "key": 1001761,
+        "item_name": "Branique Saddle",
         "item_type": "Disc0",
-        "string_key": "Silver_Bullet"
+        "string_key": "Branik_HorseArmor_Saddle"
       },
       {
-        "key": 1003753,
-        "item_name": "Replenishing Bullets",
+        "key": 1002851,
+        "item_name": "Cernos Barding",
         "item_type": "Disc0",
-        "string_key": "Continuous_Supply_Bullet"
+        "string_key": "Cernos_HorseArmor_Armor"
       },
       {
-        "key": 1000152,
-        "item_name": "Fire Magic Bullet",
+        "key": 1511008,
+        "item_name": "Delesyian Barding",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Fire"
+        "string_key": "Delesian_HorseArmor_Armor"
       },
       {
-        "key": 1000153,
-        "item_name": "Water Magic Bullet",
+        "key": 1512008,
+        "item_name": "Delesyian Champron",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Water"
+        "string_key": "Delesian_HorseArmor_Helm"
       },
       {
-        "key": 1000399,
-        "item_name": "Ice Magic Bullet",
+        "key": 1513008,
+        "item_name": "Delesyian Saddle",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Ice"
+        "string_key": "Delesian_HorseArmor_Saddle"
       },
       {
-        "key": 1000416,
-        "item_name": "Dark Magic Bullet",
+        "key": 1514008,
+        "item_name": "Delesyian Stirrups",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_DarkBall"
+        "string_key": "Delesian_HorseArmor_Stirrup"
       },
       {
-        "key": 1000429,
-        "item_name": "Lightning Magic Bullet",
+        "key": 1001938,
+        "item_name": "Delesyian Soldier's Cloth Barding",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Electric"
+        "string_key": "Delesian_Soldier_HorseArmor_Armor"
       },
       {
-        "key": 1000482,
-        "item_name": "Dark Ice Spear Magic Bullet",
+        "key": 1001070,
+        "item_name": "Delmar Saddle",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Dark_IceSpear"
+        "string_key": "Delmar_HorseArmor_Saddle"
       },
       {
-        "key": 1001862,
-        "item_name": "Magic Bullet",
+        "key": 1511012,
+        "item_name": "Demenissian Barding",
         "item_type": "Disc0",
-        "string_key": "MagicBullet"
+        "string_key": "Demeniss_HorseArmor_Armor"
       },
       {
-        "key": 1001937,
-        "item_name": "Light Fist Magic Bullet",
+        "key": 1512012,
+        "item_name": "Demenissian Champron",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_LightFist"
+        "string_key": "Demeniss_HorseArmor_Helm"
       },
       {
-        "key": 1001939,
-        "item_name": "Snow Magic Bullet",
+        "key": 1513012,
+        "item_name": "Demenissian Saddle",
         "item_type": "Disc0",
-        "string_key": "MagicBullet_Snow"
+        "string_key": "Demeniss_HorseArmor_Saddle"
       },
       {
-        "key": 53032,
-        "item_name": "Sticky Bomb",
+        "key": 1514012,
+        "item_name": "Demenissian Stirrups",
         "item_type": "Disc0",
-        "string_key": "BattleStickyBomb"
+        "string_key": "Demeniss_HorseArmor_Stirrup"
       },
       {
-        "key": 53034,
-        "item_name": "Time Bomb",
+        "key": 1511013,
+        "item_name": "Demenissian Soldier's Cloth Barding",
         "item_type": "Disc0",
-        "string_key": "TimeBomb"
+        "string_key": "Demeniss_Soldier_HorseArmor_Armor"
       },
       {
-        "key": 1000089,
-        "item_name": "Sticky Flower Bomb",
+        "key": 1511006,
+        "item_name": "Sahareum Barding",
         "item_type": "Disc0",
-        "string_key": "BattleSticky_FlowerBomb"
+        "string_key": "Desert_HorseArmor_Armor"
       },
       {
-        "key": 1000123,
-        "item_name": "Deployable Explosive",
+        "key": 1512006,
+        "item_name": "Sahareum Champron",
         "item_type": "Disc0",
-        "string_key": "InstallationBomb"
+        "string_key": "Desert_HorseArmor_Helm"
       },
       {
-        "key": 1000803,
-        "item_name": "Smoke Bomb",
+        "key": 1513006,
+        "item_name": "Sahareum Saddle",
         "item_type": "Disc0",
-        "string_key": "Bomb_Smoke"
+        "string_key": "Desert_HorseArmor_Saddle"
       },
       {
-        "key": 1000876,
-        "item_name": "Titan's Spear",
+        "key": 1514006,
+        "item_name": "Sahareum Stirrups",
         "item_type": "Disc0",
-        "string_key": "Titan_Spear"
+        "string_key": "Desert_HorseArmor_Stirrup"
       },
       {
-        "key": 1000877,
-        "item_name": "Smoke Bomb",
+        "key": 1002269,
+        "item_name": "Abyssal Dragon Armor",
         "item_type": "Disc0",
-        "string_key": "Smoke_Bomb"
+        "string_key": "Dragon_Armor_01"
       },
       {
-        "key": 1000880,
-        "item_name": "Caltrop Explosive",
+        "key": 1002850,
+        "item_name": "Grenbar Cloth Barding",
         "item_type": "Disc0",
-        "string_key": "Caltrop_Bomb"
+        "string_key": "Grenvar_HorseArmor_Armor"
       },
       {
-        "key": 1001805,
-        "item_name": "Bomb",
+        "key": 1002078,
+        "item_name": "Hagmund Barding",
         "item_type": "Disc0",
-        "string_key": "Fire_Bomb"
+        "string_key": "Hagmundt_HorseArmor_Armor"
       },
       {
-        "key": 1001815,
-        "item_name": "Crow Bomb",
+        "key": 1002197,
+        "item_name": "Hagmund Champron",
         "item_type": "Disc0",
-        "string_key": "Crow_Bomb"
+        "string_key": "Hagmundt_HorseArmor_Helm"
       },
       {
-        "key": 1001819,
-        "item_name": "Perwin Explosive",
+        "key": 1002173,
+        "item_name": "Hagmund Saddle",
         "item_type": "Disc0",
-        "string_key": "Pervin_Bomb"
+        "string_key": "Hagmundt_HorseArmor_Saddle"
       },
       {
-        "key": 1001841,
-        "item_name": "Brimstone Bomb",
+        "key": 1511010,
+        "item_name": "Hernandian Barding",
         "item_type": "Disc0",
-        "string_key": "Brimstone_Bomb"
+        "string_key": "Hernand_HorseArmor_Armor"
       },
       {
-        "key": 1001842,
-        "item_name": "Water Bomb",
+        "key": 1512010,
+        "item_name": "Hernandian Champron",
         "item_type": "Disc0",
-        "string_key": "Water_Bomb"
+        "string_key": "Hernand_HorseArmor_Helm"
       },
       {
-        "key": 1001844,
-        "item_name": "Vine Bomb",
+        "key": 1513010,
+        "item_name": "Hernandian Saddle",
         "item_type": "Disc0",
-        "string_key": "Vine_Bomb"
+        "string_key": "Hernand_HorseArmor_Saddle"
       },
       {
-        "key": 1001934,
-        "item_name": "Trap Bomb",
+        "key": 1514010,
+        "item_name": "Hernandian Stirrups",
         "item_type": "Disc0",
-        "string_key": "Trap_Bomb"
+        "string_key": "Hernand_HorseArmor_Stirrup"
       },
       {
-        "key": 1002772,
-        "item_name": "Circus Machine Sphere",
+        "key": 1511014,
+        "item_name": "Hernandian Soldier's Cloth Barding",
         "item_type": "Disc0",
-        "string_key": "CircusMachine_Sphere"
+        "string_key": "Hernand_Soldier_HorseArmor_Armor"
       },
       {
-        "key": 13600,
-        "item_name": "Shell of the Fleeting",
+        "key": 749003,
+        "item_name": "Hay",
         "item_type": "Disc0",
-        "string_key": "Hexe_Soldier_OneHandShield"
+        "string_key": "HorseFeed_Hay"
       },
       {
-        "key": 13604,
-        "item_name": "Balgran Shield",
+        "key": 749201,
+        "item_name": "Horse Tonic",
         "item_type": "Disc0",
-        "string_key": "Legendary_SkullKnight_OneHandShield"
+        "string_key": "HorseFeed_Hp_Potion"
       },
       {
-        "key": 13605,
-        "item_name": "Delesyian Ornamental Shield",
+        "key": 749101,
+        "item_name": "Sugar Cubes",
         "item_type": "Disc0",
-        "string_key": "Legendary_MarniTank_OneHandShield"
+        "string_key": "HorseFeed_Lump_Sugar"
       },
       {
-        "key": 13901,
-        "item_name": "Frostbone Shield",
+        "key": 749203,
+        "item_name": "Horse Stimulant",
         "item_type": "Disc0",
-        "string_key": "Crafting_WhiteHorn_OneHandShield"
+        "string_key": "HorseFeed_Speed_Potion"
       },
       {
-        "key": 290001,
-        "item_name": "Balton Shield",
+        "key": 749007,
+        "item_name": "Sugar Beet",
         "item_type": "Disc0",
-        "string_key": "ReiGhis_Wood_OneHandShield"
+        "string_key": "HorseFeed_Sugar_Beet"
       },
       {
-        "key": 290014,
-        "item_name": "Iris Shield",
+        "key": 1003287,
+        "item_name": "Bronze Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Rush_Storm_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Brass_horseshoe_II"
       },
       {
-        "key": 290017,
-        "item_name": "Sydmon Round Shield",
+        "key": 1003289,
+        "item_name": "Four-Leaf Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Diskio_Metal_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Clover_Horseshoe_II"
       },
       {
-        "key": 290020,
-        "item_name": "Mirror of Night",
+        "key": 1003288,
+        "item_name": "Shabby Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Dark_King_Metal_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Shabby_horseshoe_II"
       },
       {
-        "key": 290021,
-        "item_name": "Drake Shield",
+        "key": 1515001,
+        "item_name": "Silver Iron Horseshoes",
         "item_type": "Disc0",
-        "string_key": "AbyssReward_Drake_Metal_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Shoe"
       },
       {
-        "key": 290023,
-        "item_name": "Rising Arrow Shield",
+        "key": 1000592,
+        "item_name": "Ironstone Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Acquirs_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Shoe_I"
       },
       {
-        "key": 290026,
-        "item_name": "Staglord's Shield",
+        "key": 1000593,
+        "item_name": "Bow Knot Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Deer_King_Metal_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Shoe_II"
       },
       {
-        "key": 290057,
-        "item_name": "Dekarr Shield",
+        "key": 1000594,
+        "item_name": "Steelheart Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Tarrdik_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Shoe_III"
       },
       {
-        "key": 290058,
-        "item_name": "Sydmon Kite Shield",
+        "key": 1003656,
+        "item_name": "Silvermoon Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Caviden_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Silvermoon_Horseshoe_II"
       },
       {
-        "key": 290090,
-        "item_name": "Tardik Shield",
+        "key": 1003655,
+        "item_name": "Steel Horseshoes",
         "item_type": "Disc0",
-        "string_key": "Derbid_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Steel_Horseshoe_II"
       },
       {
-        "key": 290091,
-        "item_name": "Dewhaven Shield",
+        "key": 1000586,
+        "item_name": "Crude Stirrups",
         "item_type": "Disc0",
-        "string_key": "Dimphelt_Wood_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Stirrup"
       },
       {
-        "key": 290113,
-        "item_name": "Shield of a Blossoming Spring Day",
+        "key": 1000587,
+        "item_name": "Wells Military Stirrups",
         "item_type": "Disc0",
-        "string_key": "Kite_Metal_OneHandShield"
+        "string_key": "HorseShoe_HorseArmor_Stirrup_I"
       },
       {
-        "key": 290114,
-        "item_name": "Demenissian Shield of Valor",
+        "key": 1000588,
+        "item_name": "Decorative Dragon Head Stirrups",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_I"
+        "string_key": "HorseShoe_HorseArmor_Stirrup_II"
       },
       {
-        "key": 290115,
-        "item_name": "Demenissian Shield of Loyalty",
+        "key": 1000589,
+        "item_name": "Gilded Stirrups",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_II"
+        "string_key": "HorseShoe_HorseArmor_Stirrup_III"
       },
       {
-        "key": 290116,
-        "item_name": "Demenissian Shield of Obedience",
+        "key": 1000590,
+        "item_name": "Fine Leather Stirrups",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_III"
+        "string_key": "HorseShoe_HorseArmor_Stirrup_IV"
       },
       {
-        "key": 290502,
-        "item_name": "Gilliam Large Shield",
+        "key": 1000591,
+        "item_name": "Exclaire Stirrups",
         "item_type": "Disc0",
-        "string_key": "Pavis_OneHandTowerShield"
+        "string_key": "HorseShoe_HorseArmor_Stirrup_V"
       },
       {
-        "key": 290503,
-        "item_name": "Lifsoth Large Shield",
+        "key": 1002770,
+        "item_name": "Marcello Stirrups",
         "item_type": "Disc0",
-        "string_key": "Lipsort_OneHandTowerShield"
+        "string_key": "HorseShoe_HorseArmor_marquel_Stirrup"
       },
       {
-        "key": 290504,
-        "item_name": "Reinforced Warspike Large Shield",
+        "key": 1511009,
+        "item_name": "Calphadean Barding",
         "item_type": "Disc0",
-        "string_key": "Tardik_OneHandTowerShield"
+        "string_key": "Kritha_HorseArmor_Armor"
       },
       {
-        "key": 290506,
-        "item_name": "Thalwynd Large Shield",
+        "key": 1512009,
+        "item_name": "Exclaire Champron",
         "item_type": "Disc0",
-        "string_key": "Berkhia_OneHandTowerShield"
+        "string_key": "Kritha_HorseArmor_Helm"
       },
       {
-        "key": 290508,
-        "item_name": "Lucon Large Shield",
+        "key": 1513009,
+        "item_name": "Exclaire Saddle",
         "item_type": "Disc0",
-        "string_key": "Lucan_OneHandTowerShield"
+        "string_key": "Kritha_HorseArmor_Saddle"
       },
       {
-        "key": 290509,
-        "item_name": "Rhonid Large Shield",
+        "key": 1514009,
+        "item_name": "Calphadean Stirrups",
         "item_type": "Disc0",
-        "string_key": "Ronied_OneHandTowerShield"
+        "string_key": "Kritha_HorseArmor_Stirrup"
       },
       {
-        "key": 290510,
-        "item_name": "Balton Large Shield",
+        "key": 1562354751,
+        "item_name": "Exclaire Barding",
         "item_type": "Disc0",
-        "string_key": "Monita_OneHandTowerShield"
+        "string_key": "Marni_HorseArmor_Armor"
       },
       {
-        "key": 290511,
-        "item_name": "Rekel Large Shield",
+        "key": 64382088,
+        "item_name": "Wells Military Champron",
         "item_type": "Disc0",
-        "string_key": "Recle_OneHandTowerShield"
+        "string_key": "Marni_HorseArmor_Helm"
       },
       {
-        "key": 290515,
-        "item_name": "Lanford Large Shield",
+        "key": 1000481,
+        "item_name": "Marni Stirrups",
         "item_type": "Disc0",
-        "string_key": "Taos_OneHandTowerShield"
+        "string_key": "Marni_HorseArmor_Stirrup"
       },
       {
-        "key": 290516,
-        "item_name": "The Laughing Marionette Shield",
+        "key": 1513000,
+        "item_name": "Shabby Horse Saddle",
         "item_type": "Disc0",
-        "string_key": "Gelhouke_OneHandTowerShield"
+        "string_key": "Old_HorseArmor_Saddle"
       },
       {
-        "key": 290523,
-        "item_name": "Bekker Large Shield",
+        "key": 1511011,
+        "item_name": "Varnian Barding",
         "item_type": "Disc0",
-        "string_key": "Tulio_OneHandTowerShield"
+        "string_key": "Orjekel_HorseArmor_Armor"
       },
       {
-        "key": 290526,
-        "item_name": "Mass-Produced Large Rekel Shield",
+        "key": 1512011,
+        "item_name": "Varnian Champron",
         "item_type": "Disc0",
-        "string_key": "Dealinger_OneHandTowerShield"
+        "string_key": "Orjekel_HorseArmor_Helm"
       },
       {
-        "key": 290531,
-        "item_name": "Rekel Large Spiked Shield",
+        "key": 1513011,
+        "item_name": "Varnian Saddle",
         "item_type": "Disc0",
-        "string_key": "Light_Thorn_OneHandTowerShield"
+        "string_key": "Orjekel_HorseArmor_Saddle"
       },
       {
-        "key": 290532,
-        "item_name": "Thorny Warspike Large Shield",
+        "key": 1514011,
+        "item_name": "Varnian Stirrups",
         "item_type": "Disc0",
-        "string_key": "Artisan_Thorn_OneHandTowerShield"
+        "string_key": "Orjekel_HorseArmor_Stirrup"
       },
       {
-        "key": 290533,
-        "item_name": "Demenissian Soldier's Large Shield",
+        "key": 1001419,
+        "item_name": "Rosbar Champron",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Soldier_OneHandTowerShield"
+        "string_key": "Rosvar_HorseArmor_Helm"
       },
       {
-        "key": 290997,
-        "item_name": "Legion Spearmen's Large Shield",
+        "key": 1001098,
+        "item_name": "Servano Saddle",
         "item_type": "Disc0",
-        "string_key": "Hard_Thorn_OneHandTowerShield"
+        "string_key": "Servano_HorseArmor_Saddle"
       },
       {
-        "key": 1000027,
-        "item_name": "Kite Shield",
+        "key": 1511001,
+        "item_name": "Hyperion Barding",
         "item_type": "Disc0",
-        "string_key": "Kitee_OneHandShield"
+        "string_key": "Troopers_HorseArmor_Armor"
       },
       {
-        "key": 1000086,
-        "item_name": "Shield of Conviction",
+        "key": 1512001,
+        "item_name": "Hyperion Champron",
         "item_type": "Disc0",
-        "string_key": "Stephan_Bleed_Metal_OneHandTowerShield"
+        "string_key": "Troopers_HorseArmor_Helm"
       },
       {
-        "key": 1000090,
-        "item_name": "Rattan Shield",
+        "key": 1513001,
+        "item_name": "Hyperion Saddle",
         "item_type": "Disc0",
-        "string_key": "Rattan_Wood_OneHandShield"
+        "string_key": "Troopers_HorseArmor_Saddle"
       },
       {
-        "key": 1000125,
-        "item_name": "Shield of Ringing",
+        "key": 1001812,
+        "item_name": "Wells Military Saddle",
         "item_type": "Disc0",
-        "string_key": "Sound_OneHandShield"
+        "string_key": "Troopers_HorseArmor_Saddle_I"
       },
       {
-        "key": 1000182,
-        "item_name": "Kutum Shield",
+        "key": 1514001,
+        "item_name": "Hyperion Stirrups",
         "item_type": "Disc0",
-        "string_key": "AbyssReward_Kutum_TowerShield"
+        "string_key": "Troopers_HorseArmor_Stirrup"
       },
       {
-        "key": 1000183,
-        "item_name": "Freesword's Shield",
+        "key": 1003195,
+        "item_name": "Purple Scout Champron",
         "item_type": "Disc0",
-        "string_key": "Mercenary_OneHandShield"
+        "string_key": "Twich_HorseArmor_Helm"
       },
       {
-        "key": 1000201,
-        "item_name": "Runewalker Shield",
+        "key": 1003196,
+        "item_name": "Purple Scout Saddle",
         "item_type": "Disc0",
-        "string_key": "LakeGolem_OnehandShield"
+        "string_key": "Twich_HorseArmor_Saddle"
       },
       {
-        "key": 1000242,
-        "item_name": "Saint's Blessing",
+        "key": 1003197,
+        "item_name": "Purple Scout Stirrups",
         "item_type": "Disc0",
-        "string_key": "Ribentain_Priest_OneHandShield"
+        "string_key": "Twich_HorseArmor_Stirrup"
       },
       {
-        "key": 1000252,
-        "item_name": "Gilded Shield",
+        "key": 1002806,
+        "item_name": "Varken Champron",
         "item_type": "Disc0",
-        "string_key": "Gilded_OneHandShield"
+        "string_key": "Varken_HorseArmor_Helm"
       },
       {
-        "key": 1000253,
-        "item_name": "Large Gilded Shield",
+        "key": 1511015,
+        "item_name": "Wagon Barding",
         "item_type": "Disc0",
-        "string_key": "Gilded_OneHandTowerShield"
+        "string_key": "Wagon_HorseArmor_Armor"
       },
       {
-        "key": 1000266,
-        "item_name": "Ancient Shield",
+        "key": 1000773,
+        "item_name": "Wagon Barding II",
         "item_type": "Disc0",
-        "string_key": "Ancient_Shield"
+        "string_key": "Wagon_HorseArmor_Armor_II"
       },
       {
-        "key": 1000394,
-        "item_name": "Demeniss Royal Guard Shield",
+        "key": 1000475,
+        "item_name": "A.T.A.G. Thrusterpack Mk I",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Guard_Shield"
+        "string_key": "WarRobot_Backpack_01"
       },
       {
-        "key": 1000395,
-        "item_name": "Demenissian Silver-Decorated Shield",
+        "key": 1001095,
+        "item_name": "A.T.A.G. Thrusterpack Mk II",
         "item_type": "Disc0",
-        "string_key": "Damian_OneHandShield_IV"
+        "string_key": "WarRobot_Backpack_02"
       },
       {
-        "key": 1000498,
-        "item_name": "Musket Shield",
+        "key": 1001068,
+        "item_name": "A.T.A.G. Thrusterpack Mk III",
         "item_type": "Disc0",
-        "string_key": "PlainsGuard_OneHandShield"
+        "string_key": "WarRobot_Backpack_03"
       },
       {
-        "key": 1000499,
-        "item_name": "Royal Guard Shield",
+        "key": 1000261,
+        "item_name": "A.T.A.G. Plating Mk I",
         "item_type": "Disc0",
-        "string_key": "RoyalGuard_OneHandShield"
+        "string_key": "WarRobot_Body_01"
       },
       {
-        "key": 1000500,
-        "item_name": "Flame Knights Shield",
+        "key": 1001094,
+        "item_name": "A.T.A.G. Plating Mk II",
         "item_type": "Disc0",
-        "string_key": "FrontierMilitia_OneHandShield"
+        "string_key": "WarRobot_Body_02"
       },
       {
-        "key": 1000519,
-        "item_name": "City Guard's Shield",
+        "key": 1000758,
+        "item_name": "A.T.A.G. Plating Mk III",
         "item_type": "Disc0",
-        "string_key": "CapitalPatrol_OneHandShield"
+        "string_key": "WarRobot_Body_03"
       },
       {
-        "key": 1000631,
-        "item_name": "Eastern Wanderer's Shield",
+        "key": 1001429,
+        "item_name": "A.T.A.G. Boots Mk I",
         "item_type": "Disc0",
-        "string_key": "EasternWanderer_OneHandShield"
+        "string_key": "WarRobot_Foot_01"
       },
       {
-        "key": 1000657,
-        "item_name": "Artisan's Ornamented Shield",
+        "key": 1001096,
+        "item_name": "A.T.A.G. Boots Mk II",
         "item_type": "Disc0",
-        "string_key": "Damian_OneHandShield_VI"
+        "string_key": "WarRobot_Foot_02"
       },
       {
-        "key": 1000683,
-        "item_name": "Demenissian Gold-Decorated Shield",
+        "key": 1000855,
+        "item_name": "A.T.A.G. Boots Mk III",
         "item_type": "Disc0",
-        "string_key": "Damian_OneHandShield"
+        "string_key": "WarRobot_Foot_03"
       },
       {
-        "key": 1000761,
-        "item_name": "Shield of Betrayal",
+        "key": 1002121,
+        "item_name": "Wells Military Barding",
         "item_type": "Disc0",
-        "string_key": "Silver_Armor_OneHandTowerShield"
+        "string_key": "Wells_HorseArmor_Armor"
       },
       {
-        "key": 1001027,
-        "item_name": "Golden Kerria Shield",
+        "key": 1004403,
+        "item_name": "Deer Saddle",
         "item_type": "Disc0",
-        "string_key": "Damian_OneHandShield_VIII"
+        "string_key": "deer_Armor"
       },
       {
-        "key": 1001064,
-        "item_name": "Shield of Radiance",
+        "key": 1004398,
+        "item_name": "Wolf Saddle",
         "item_type": "Disc0",
-        "string_key": "Damian_OneHandShield_VII"
+        "string_key": "Wolf_Armor"
       },
       {
-        "key": 1001073,
-        "item_name": "Twisted Thorns",
+        "key": 1004397,
+        "item_name": "Bear Saddle",
         "item_type": "Disc0",
-        "string_key": "Desert_Abyss_Wraith_OneHandShield"
+        "string_key": "Bear_Armor"
       },
       {
-        "key": 1001147,
-        "item_name": "Grey Wolf Wooden Shield",
+        "key": 1004402,
+        "item_name": "Kuku Bird Saddle",
         "item_type": "Disc0",
-        "string_key": "Wood_OneHandShield"
+        "string_key": "KuKubird_Armor_I"
       },
       {
-        "key": 1001192,
-        "item_name": "Gale Shield",
+        "key": 1004404,
+        "item_name": "Ibex Saddle",
         "item_type": "Disc0",
-        "string_key": "Wind_Power_OneHandShield"
+        "string_key": "AlpineIbex_Armor"
       },
       {
-        "key": 1001211,
-        "item_name": "Black Sun",
+        "key": 1004400,
+        "item_name": "Raptor Saddle",
         "item_type": "Disc0",
-        "string_key": "Bastion_OneHandShield"
+        "string_key": "carmabirdsaurus_Armor"
       },
       {
-        "key": 1001246,
-        "item_name": "Golden Shield",
+        "key": 1004406,
+        "item_name": "Warthog Saddle",
         "item_type": "Disc0",
-        "string_key": "Gold_Armor_OneHandShield"
+        "string_key": "Warthog_Armor"
       },
       {
-        "key": 1001305,
-        "item_name": "Shotgun Shield",
+        "key": 1004399,
+        "item_name": "Giant Iguana Saddle",
         "item_type": "Disc0",
-        "string_key": "Gun_OneHandShield"
+        "string_key": "GiantIguana_Armor"
       },
       {
-        "key": 1001417,
-        "item_name": "North Wind Shield",
+        "key": 1004405,
+        "item_name": "Embroidered Camel Saddle",
         "item_type": "Disc0",
-        "string_key": "North_Warrior_OneHandTowerShield"
+        "string_key": "Camel_Armor"
       },
       {
-        "key": 1001422,
-        "item_name": "Khaled Shield",
+        "key": 1004446,
+        "item_name": "Wyvern Saddle",
         "item_type": "Disc0",
-        "string_key": "Gregor_OneHandShield"
+        "string_key": "wyvern_Armor"
       },
       {
-        "key": 1001427,
-        "item_name": "Shield of Sacrifice",
+        "key": 1004401,
+        "item_name": "Kuku Bird Hatchling Saddle",
         "item_type": "Disc0",
-        "string_key": "Legendary_Soulknight_OneHandTowerShield"
+        "string_key": "KuKubird_Armor"
       },
       {
-        "key": 1001428,
-        "item_name": "Shield of the Phantom",
+        "key": 1004502,
+        "item_name": "Small Wyvern Aviator Hat",
         "item_type": "Disc0",
-        "string_key": "Soulknight_Sprit_OneHandTowerShield"
+        "string_key": "PetArmor_Fabric_Helm_WyvernBaby"
       },
       {
-        "key": 1002842,
-        "item_name": "Blazing Shield",
+        "key": 1004516,
+        "item_name": "Small Kuku Bird Eggshell",
         "item_type": "Disc0",
-        "string_key": "CrimsonFlame_OneHandShield"
+        "string_key": "PetArmor_Helm_Cucubirdbaby"
       },
       {
-        "key": 1002844,
-        "item_name": "Black Oath Shield",
+        "key": 1000768,
+        "item_name": "Peddler Cat Outfit",
         "item_type": "Disc0",
-        "string_key": "BlackOath_OneHandShield"
+        "string_key": "PetArmor_backpack_Armor_Cat"
       },
       {
-        "key": 1002846,
-        "item_name": "Odeck Hardwood Shield",
+        "key": 1000118,
+        "item_name": "Peddler Cat Hat",
         "item_type": "Disc0",
-        "string_key": "Patrol_OneHandShield"
+        "string_key": "PetArmor_backpack_Helm_Cat"
       },
       {
-        "key": 1002847,
-        "item_name": "Oath Ring Shield",
+        "key": 1003925,
+        "item_name": "Cat Visionette Neckerchief",
         "item_type": "Disc0",
-        "string_key": "Oathring_OneHandShield"
+        "string_key": "PetArmor_Marni_Armor"
       },
       {
-        "key": 1003194,
-        "item_name": "Purple Scout Shield",
+        "key": 1003924,
+        "item_name": "Cat Visionette",
         "item_type": "Disc0",
-        "string_key": "Twich_OneHandShield"
+        "string_key": "PetArmor_Marni_Helm"
       },
       {
-        "key": 1003205,
-        "item_name": "Blue Scout Shield",
+        "key": 1000757,
+        "item_name": "Uniform Cat Outfit",
         "item_type": "Disc0",
-        "string_key": "Bilibili_OneHandShield"
+        "string_key": "PetArmor_Musket_Armor_Cat"
       },
       {
-        "key": 1004543,
-        "item_name": "Frying Pan Lid",
+        "key": 1000760,
+        "item_name": "Uniform Cat Hat",
         "item_type": "Disc0",
-        "string_key": "FryingPan_Lid_OneHandShield"
+        "string_key": "PetArmor_Musket_Helm_Cat"
       },
       {
-        "key": 1163043,
-        "item_name": "Bekker Shield",
+        "key": 1000014,
+        "item_name": "Cat Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Old_Wood_OneHandShield"
+        "string_key": "PetArmor_Plate_Armor_Cat"
       },
       {
-        "key": 52011,
-        "item_name": "Double-Sided Banner Pike",
+        "key": 1002049,
+        "item_name": "Puppy Plate Armor",
         "item_type": "Disc0",
-        "string_key": "Common_Flag_I"
+        "string_key": "PetArmor_Plate_Armor_Dog"
       },
       {
-        "key": 52012,
-        "item_name": "Small Banner Pike",
+        "key": 1000006,
+        "item_name": "Cat Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Common_Flag_II"
+        "string_key": "PetArmor_Plate_Helm_Cat"
       },
       {
-        "key": 52020,
-        "item_name": "Small Demenissian Banner Pike",
+        "key": 1002048,
+        "item_name": "Puppy Plate Helm",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Flag_II"
+        "string_key": "PetArmor_Plate_Helm_Dog"
       },
       {
-        "key": 52021,
-        "item_name": "Small Delesyian Banner Pike",
+        "key": 1001437,
+        "item_name": "Rescue Puppy Outfit",
         "item_type": "Disc0",
-        "string_key": "Dellesian_Flag_I"
+        "string_key": "PetArmor_Rescue_Armor_Dog"
       },
       {
-        "key": 52023,
-        "item_name": "Small Black Bears Banner Pike",
+        "key": 1004287,
+        "item_name": "Sigil of Valor",
         "item_type": "Disc0",
-        "string_key": "Blackbear_Flag_I"
+        "string_key": "Pet_Attackable_Amulet"
       },
       {
-        "key": 52025,
-        "item_name": "Small Dusksongs Banner Pike",
+        "key": 1003929,
+        "item_name": "Sigil of Bonding",
         "item_type": "Disc0",
-        "string_key": "fort_Flag_I"
+        "string_key": "Pet_Bond_Amulet"
       },
       {
-        "key": 52026,
-        "item_name": "Small Faceless Banner Pike",
+        "key": 1004315,
+        "item_name": "Hunter's Sigil",
         "item_type": "Disc0",
-        "string_key": "fort_Flag_II"
+        "string_key": "Pet_Huntable_Amulet"
       },
       {
-        "key": 52029,
-        "item_name": "Small Wells Banner Pike",
+        "key": 1003843,
+        "item_name": "Sigil of Solidarity (White Bear)",
         "item_type": "Disc0",
-        "string_key": "Wells_Flag_I"
+        "string_key": "Riding_Bear_Amulet"
       },
       {
-        "key": 52031,
-        "item_name": "The Blinding Arrows Small Banner Pike",
+        "key": 1003844,
+        "item_name": "Sigil of Solidarity (Silver Fang)",
         "item_type": "Disc0",
-        "string_key": "Arrow_Flag_I"
+        "string_key": "Riding_Wolf_Amulet"
       },
       {
-        "key": 52033,
-        "item_name": "Small Hellhounds Banner Pike",
+        "key": 1003845,
+        "item_name": "Sigil of Solidarity (Snowwhite Deer)",
         "item_type": "Disc0",
-        "string_key": "Hound_Flag_I"
+        "string_key": "Riding_Deer_Amulet"
       },
       {
-        "key": 380501,
-        "item_name": "Small Demenissian Banner Pike",
+        "key": 1003846,
+        "item_name": "Sigil of Solidarity (Icicle Edge Alpine Ibex)",
         "item_type": "Disc0",
-        "string_key": "Demeniss_Flag"
+        "string_key": "Riding_AlpineIbex_Amulet"
       },
       {
-        "key": 380504,
-        "item_name": "Small Royal Hunting Ground Banner Pike",
+        "key": 1003847,
+        "item_name": "Sigil of Solidarity (Rock Tusk Warthog)",
         "item_type": "Disc0",
-        "string_key": "Royal_Hunting_Ground_Flag_III"
+        "string_key": "Riding_Warthog_Amulet"
       },
       {
-        "key": 380506,
-        "item_name": "Small Black Bears Banner Pike",
+        "key": 1003921,
+        "item_name": "Sigil of Solidarity (Phoenix)",
         "item_type": "Disc0",
-        "string_key": "Drunk_BlackBears_Flag"
+        "string_key": "Pet_Phoenix_Amulet"
       },
       {
-        "key": 1000124,
-        "item_name": "Small Militia Banner Pike",
+        "key": 1004726,
+        "item_name": "Small Haven for Pets",
         "item_type": "Disc0",
-        "string_key": "Militia_Flag"
+        "string_key": "Pet_Slot_Expansion_1_3"
       },
       {
-        "key": 1000178,
-        "item_name": "Pailunese Contribution Banner Pike",
+        "key": 1004765,
+        "item_name": "Haven for Pets",
         "item_type": "Disc0",
-        "string_key": "Pailune_Contribution_Flag"
+        "string_key": "Pet_Slot_Expansion_2_3"
       },
       {
-        "key": 1000250,
-        "item_name": "Small Calphadean Banner Pike",
+        "key": 1004720,
+        "item_name": "Large Haven for Pets",
         "item_type": "Disc0",
-        "string_key": "Calphade_Flag_I"
-      },
-      {
-        "key": 1000258,
-        "item_name": "Anti-Caliburn Signboard",
-        "item_type": "Disc0",
-        "string_key": "Anti_Caliburn_Picket"
-      },
-      {
-        "key": 1000439,
-        "item_name": "Small Caliburn's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Caliburn_Flag"
-      },
-      {
-        "key": 1000440,
-        "item_name": "Small Wells Brigade Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Wells_Brigade_Flag"
-      },
-      {
-        "key": 1000442,
-        "item_name": "Small Calphadean Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "UnyieldingShields_Flag"
-      },
-      {
-        "key": 1000556,
-        "item_name": "Hernandian Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Hernand_Contribution_Flag"
-      },
-      {
-        "key": 1000632,
-        "item_name": "Calphadean Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Calphade_Contribution_Flag"
-      },
-      {
-        "key": 1000688,
-        "item_name": "Demenissian Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_Contribution_Flag"
-      },
-      {
-        "key": 1000770,
-        "item_name": "Delesyian Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Delesyian_Contribution_Flag"
-      },
-      {
-        "key": 1000795,
-        "item_name": "Small Vellua Pirates Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Storm_Cliff_Flag"
-      },
-      {
-        "key": 1001083,
-        "item_name": "Damaged Medium Calphadean Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Shield_Flag_IV"
-      },
-      {
-        "key": 1001084,
-        "item_name": "Small Vellua Pirates Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Storm_Cliff_Flag_I"
-      },
-      {
-        "key": 1001088,
-        "item_name": "Small Caliburn's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Caliburn_Flag_I"
-      },
-      {
-        "key": 1001772,
-        "item_name": "Varnian Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Varnia_Contribution_Flag"
-      },
-      {
-        "key": 1001804,
-        "item_name": "Tommasoan Contribution Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Tashkalp_Contribution_Flag"
-      },
-      {
-        "key": 1001818,
-        "item_name": "Small Halberd of Carnage's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Fort_Flag_02"
-      },
-      {
-        "key": 1001820,
-        "item_name": "Small Pailunese Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "pailloon_Flag_I"
-      },
-      {
-        "key": 1001821,
-        "item_name": "Small Wyvernflames Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Wyvern_Flag_I"
-      },
-      {
-        "key": 1001822,
-        "item_name": "Small Tommaso Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "tommaso_Flag_I"
-      },
-      {
-        "key": 1001823,
-        "item_name": "Small Varnian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "barnia_Flag_I"
-      },
-      {
-        "key": 1001824,
-        "item_name": "Small Twilight Messengers Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "fort_Flag_III"
-      },
-      {
-        "key": 1001825,
-        "item_name": "Small Ironflame Orcs Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Orc_Flag_I"
-      },
-      {
-        "key": 1001826,
-        "item_name": "Small Marni Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "marni_Flag_I"
-      },
-      {
-        "key": 1001827,
-        "item_name": "Small Flame Knights Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "dragonkiller_Flag_I"
-      },
-      {
-        "key": 1001828,
-        "item_name": "Small Bleed Bandits Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Bleed_Flag_II"
-      },
-      {
-        "key": 1001829,
-        "item_name": "Small Staglord Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "deerking_Flag_I"
-      },
-      {
-        "key": 1001830,
-        "item_name": "Small Hernandian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Hernand_Flag_I"
-      },
-      {
-        "key": 1001831,
-        "item_name": "Small Demenissian Noble's Banner",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_I"
-      },
-      {
-        "key": 1001832,
-        "item_name": "Small Demenissian Noble's Banner",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_II"
-      },
-      {
-        "key": 1001833,
-        "item_name": "Small Demenissian Noble's Banner",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_III"
-      },
-      {
-        "key": 1001834,
-        "item_name": "Tiny Greymane Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "graymane_Flag_I"
-      },
-      {
-        "key": 1001925,
-        "item_name": "Black Bears Banner Pike with Tassel",
-        "item_type": "Disc0",
-        "string_key": "Blackbear_Flag_IV"
-      },
-      {
-        "key": 1002158,
-        "item_name": "Medium Demenissian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Demeniss_Flag_III"
-      },
-      {
-        "key": 1003165,
-        "item_name": "Medium Black Bears Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Blackbear_Flag_II"
-      },
-      {
-        "key": 1003166,
-        "item_name": "Medium Bleed Bandits Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Bleed_Flag_III"
-      },
-      {
-        "key": 1003167,
-        "item_name": "Medium Caliburn's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Caliburn_Flag_II"
-      },
-      {
-        "key": 1003168,
-        "item_name": "Medium Calphadean Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Calphade_Flag_II"
-      },
-      {
-        "key": 1003169,
-        "item_name": "Medium Staglord Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "deerking_Flag_II"
-      },
-      {
-        "key": 1003170,
-        "item_name": "Medium Delesyian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Dellesian_Flag_II"
-      },
-      {
-        "key": 1003171,
-        "item_name": "Medium Dewhaven Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Dewhaven_Flag_II"
-      },
-      {
-        "key": 1003322,
-        "item_name": "Small Dewhaven Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Dewhaven_Flag_I"
-      },
-      {
-        "key": 1003323,
-        "item_name": "Medium Demenissian Noble's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_IV"
-      },
-      {
-        "key": 1003324,
-        "item_name": "Medium Demenissian Noble's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_V"
-      },
-      {
-        "key": 1003325,
-        "item_name": "Medium Demenissian Noble's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "demenissnobility_Flag_VI"
-      },
-      {
-        "key": 1003326,
-        "item_name": "Small Greymane Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "graymane_Flag_II"
-      },
-      {
-        "key": 1003327,
-        "item_name": "Small Musket of Demeniss Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "musket_Flag_I"
-      },
-      {
-        "key": 1003328,
-        "item_name": "Small Heavy Silence Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "silence_Flag_I"
-      },
-      {
-        "key": 1003337,
-        "item_name": "Medium Dusksongs Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "fort_Flag_IV"
-      },
-      {
-        "key": 1003338,
-        "item_name": "Medium Faceless Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "fort_Flag_V"
-      },
-      {
-        "key": 1003339,
-        "item_name": "Medium Ironflame Orcs Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Orc_Flag_II"
-      },
-      {
-        "key": 1003340,
-        "item_name": "Medium Greymane Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "graymane_Flag_III"
-      },
-      {
-        "key": 1003341,
-        "item_name": "Medium Hellhounds Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Hound_Flag_II"
-      },
-      {
-        "key": 1003342,
-        "item_name": "Medium Hernandian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Hernand_Flag_II"
-      },
-      {
-        "key": 1003343,
-        "item_name": "Medium Marni Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "marni_Flag_II"
-      },
-      {
-        "key": 1003344,
-        "item_name": "Medium Musket of Demeniss Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "musket_Flag_II"
-      },
-      {
-        "key": 1003345,
-        "item_name": "Medium Pailunese Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "pailloon_Flag_II"
-      },
-      {
-        "key": 1003346,
-        "item_name": "Medium Vellua Pirate Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Storm_Cliff_Flag_II"
-      },
-      {
-        "key": 1003347,
-        "item_name": "Medium Heavy Silence Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "silence_Flag_II"
-      },
-      {
-        "key": 1003348,
-        "item_name": "The Blinding Arrows Medium Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Arrow_Flag_II"
-      },
-      {
-        "key": 1003349,
-        "item_name": "Medium Halberd of Carnage's Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Fort_Flag_03"
-      },
-      {
-        "key": 1003350,
-        "item_name": "Medium Tommaso Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "tommaso_Flag_II"
-      },
-      {
-        "key": 1003351,
-        "item_name": "Medium Twilight Messengers Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "fort_Flag_VI"
-      },
-      {
-        "key": 1003352,
-        "item_name": "Medium Varnian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "barnia_Flag_II"
-      },
-      {
-        "key": 1003353,
-        "item_name": "Medium Wells Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Wells_Flag_II"
-      },
-      {
-        "key": 1003354,
-        "item_name": "Medium Wyvernflames Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Wyvern_Flag_II"
-      },
-      {
-        "key": 1003355,
-        "item_name": "Medium Flame Knights Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "dragonkiller_Flag_II"
-      },
-      {
-        "key": 1004111,
-        "item_name": "Antumbra Sign",
-        "item_type": "Disc0",
-        "string_key": "Antumbra_Picket"
-      },
-      {
-        "key": 254143257,
-        "item_name": "Small Delesyian Banner Pike",
-        "item_type": "Disc0",
-        "string_key": "Delesyian_Flag"
+        "string_key": "Pet_Slot_Expansion_3"
       }
     ]
   },
@@ -18932,6 +17754,1184 @@
         "item_name": "Surge III",
         "item_type": "Disc0",
         "string_key": "Item_Stat_AbyssGear_SwimSpeedRate_LV3"
+      }
+    ]
+  },
+  {
+    "name": "Mokosh",
+    "job_name": "Butchery",
+    "icon": "mokosh",
+    "localtion": "",
+    "sell_list": [
+      {
+        "key": 2200,
+        "item_name": "Stub Arrow",
+        "item_type": "Disc0",
+        "string_key": "Pyeonjeon_Arrow"
+      },
+      {
+        "key": 50001,
+        "item_name": "Arrow",
+        "item_type": "Disc0",
+        "string_key": "Arrow"
+      },
+      {
+        "key": 50003,
+        "item_name": "Poison Arrow",
+        "item_type": "Disc0",
+        "string_key": "Poison_Arrow"
+      },
+      {
+        "key": 50011,
+        "item_name": "Whistling Arrow",
+        "item_type": "Disc0",
+        "string_key": "Hyosi_Arrow"
+      },
+      {
+        "key": 1000070,
+        "item_name": "Sleep Arrow",
+        "item_type": "Disc0",
+        "string_key": "Sleep_Arrow"
+      },
+      {
+        "key": 1001321,
+        "item_name": "Explosive Arrow",
+        "item_type": "Disc0",
+        "string_key": "Bomb_Arrow"
+      },
+      {
+        "key": 1002557,
+        "item_name": "Replenishing Arrows",
+        "item_type": "Disc0",
+        "string_key": "Quiver"
+      },
+      {
+        "key": 1000372,
+        "item_name": "Bullet",
+        "item_type": "Disc0",
+        "string_key": "Bullet"
+      },
+      {
+        "key": 1001320,
+        "item_name": "Buckshot Bullet",
+        "item_type": "Disc0",
+        "string_key": "Shotgun_Bullet"
+      },
+      {
+        "key": 1002125,
+        "item_name": "Silver Bullet",
+        "item_type": "Disc0",
+        "string_key": "Silver_Bullet"
+      },
+      {
+        "key": 1003753,
+        "item_name": "Replenishing Bullets",
+        "item_type": "Disc0",
+        "string_key": "Continuous_Supply_Bullet"
+      },
+      {
+        "key": 1000152,
+        "item_name": "Fire Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Fire"
+      },
+      {
+        "key": 1000153,
+        "item_name": "Water Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Water"
+      },
+      {
+        "key": 1000399,
+        "item_name": "Ice Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Ice"
+      },
+      {
+        "key": 1000416,
+        "item_name": "Dark Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_DarkBall"
+      },
+      {
+        "key": 1000429,
+        "item_name": "Lightning Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Electric"
+      },
+      {
+        "key": 1000482,
+        "item_name": "Dark Ice Spear Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Dark_IceSpear"
+      },
+      {
+        "key": 1001862,
+        "item_name": "Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet"
+      },
+      {
+        "key": 1001937,
+        "item_name": "Light Fist Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_LightFist"
+      },
+      {
+        "key": 1001939,
+        "item_name": "Snow Magic Bullet",
+        "item_type": "Disc0",
+        "string_key": "MagicBullet_Snow"
+      },
+      {
+        "key": 53032,
+        "item_name": "Sticky Bomb",
+        "item_type": "Disc0",
+        "string_key": "BattleStickyBomb"
+      },
+      {
+        "key": 53034,
+        "item_name": "Time Bomb",
+        "item_type": "Disc0",
+        "string_key": "TimeBomb"
+      },
+      {
+        "key": 1000089,
+        "item_name": "Sticky Flower Bomb",
+        "item_type": "Disc0",
+        "string_key": "BattleSticky_FlowerBomb"
+      },
+      {
+        "key": 1000123,
+        "item_name": "Deployable Explosive",
+        "item_type": "Disc0",
+        "string_key": "InstallationBomb"
+      },
+      {
+        "key": 1000803,
+        "item_name": "Smoke Bomb",
+        "item_type": "Disc0",
+        "string_key": "Bomb_Smoke"
+      },
+      {
+        "key": 1000876,
+        "item_name": "Titan's Spear",
+        "item_type": "Disc0",
+        "string_key": "Titan_Spear"
+      },
+      {
+        "key": 1000877,
+        "item_name": "Smoke Bomb",
+        "item_type": "Disc0",
+        "string_key": "Smoke_Bomb"
+      },
+      {
+        "key": 1000880,
+        "item_name": "Caltrop Explosive",
+        "item_type": "Disc0",
+        "string_key": "Caltrop_Bomb"
+      },
+      {
+        "key": 1001805,
+        "item_name": "Bomb",
+        "item_type": "Disc0",
+        "string_key": "Fire_Bomb"
+      },
+      {
+        "key": 1001815,
+        "item_name": "Crow Bomb",
+        "item_type": "Disc0",
+        "string_key": "Crow_Bomb"
+      },
+      {
+        "key": 1001819,
+        "item_name": "Perwin Explosive",
+        "item_type": "Disc0",
+        "string_key": "Pervin_Bomb"
+      },
+      {
+        "key": 1001841,
+        "item_name": "Brimstone Bomb",
+        "item_type": "Disc0",
+        "string_key": "Brimstone_Bomb"
+      },
+      {
+        "key": 1001842,
+        "item_name": "Water Bomb",
+        "item_type": "Disc0",
+        "string_key": "Water_Bomb"
+      },
+      {
+        "key": 1001844,
+        "item_name": "Vine Bomb",
+        "item_type": "Disc0",
+        "string_key": "Vine_Bomb"
+      },
+      {
+        "key": 1001934,
+        "item_name": "Trap Bomb",
+        "item_type": "Disc0",
+        "string_key": "Trap_Bomb"
+      },
+      {
+        "key": 1002772,
+        "item_name": "Circus Machine Sphere",
+        "item_type": "Disc0",
+        "string_key": "CircusMachine_Sphere"
+      },
+      {
+        "key": 13600,
+        "item_name": "Shell of the Fleeting",
+        "item_type": "Disc0",
+        "string_key": "Hexe_Soldier_OneHandShield"
+      },
+      {
+        "key": 13604,
+        "item_name": "Balgran Shield",
+        "item_type": "Disc0",
+        "string_key": "Legendary_SkullKnight_OneHandShield"
+      },
+      {
+        "key": 13605,
+        "item_name": "Delesyian Ornamental Shield",
+        "item_type": "Disc0",
+        "string_key": "Legendary_MarniTank_OneHandShield"
+      },
+      {
+        "key": 13901,
+        "item_name": "Frostbone Shield",
+        "item_type": "Disc0",
+        "string_key": "Crafting_WhiteHorn_OneHandShield"
+      },
+      {
+        "key": 290001,
+        "item_name": "Balton Shield",
+        "item_type": "Disc0",
+        "string_key": "ReiGhis_Wood_OneHandShield"
+      },
+      {
+        "key": 290014,
+        "item_name": "Iris Shield",
+        "item_type": "Disc0",
+        "string_key": "Rush_Storm_Wood_OneHandShield"
+      },
+      {
+        "key": 290017,
+        "item_name": "Sydmon Round Shield",
+        "item_type": "Disc0",
+        "string_key": "Diskio_Metal_OneHandShield"
+      },
+      {
+        "key": 290020,
+        "item_name": "Mirror of Night",
+        "item_type": "Disc0",
+        "string_key": "Dark_King_Metal_OneHandShield"
+      },
+      {
+        "key": 290021,
+        "item_name": "Drake Shield",
+        "item_type": "Disc0",
+        "string_key": "AbyssReward_Drake_Metal_OneHandShield"
+      },
+      {
+        "key": 290023,
+        "item_name": "Rising Arrow Shield",
+        "item_type": "Disc0",
+        "string_key": "Acquirs_Wood_OneHandShield"
+      },
+      {
+        "key": 290026,
+        "item_name": "Staglord's Shield",
+        "item_type": "Disc0",
+        "string_key": "Deer_King_Metal_OneHandShield"
+      },
+      {
+        "key": 290057,
+        "item_name": "Dekarr Shield",
+        "item_type": "Disc0",
+        "string_key": "Tarrdik_Wood_OneHandShield"
+      },
+      {
+        "key": 290058,
+        "item_name": "Sydmon Kite Shield",
+        "item_type": "Disc0",
+        "string_key": "Caviden_Wood_OneHandShield"
+      },
+      {
+        "key": 290090,
+        "item_name": "Tardik Shield",
+        "item_type": "Disc0",
+        "string_key": "Derbid_Wood_OneHandShield"
+      },
+      {
+        "key": 290091,
+        "item_name": "Dewhaven Shield",
+        "item_type": "Disc0",
+        "string_key": "Dimphelt_Wood_OneHandShield"
+      },
+      {
+        "key": 290113,
+        "item_name": "Shield of a Blossoming Spring Day",
+        "item_type": "Disc0",
+        "string_key": "Kite_Metal_OneHandShield"
+      },
+      {
+        "key": 290114,
+        "item_name": "Demenissian Shield of Valor",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_I"
+      },
+      {
+        "key": 290115,
+        "item_name": "Demenissian Shield of Loyalty",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_II"
+      },
+      {
+        "key": 290116,
+        "item_name": "Demenissian Shield of Obedience",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Soldier_Kitee_Metal_OneHandShield_III"
+      },
+      {
+        "key": 290502,
+        "item_name": "Gilliam Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Pavis_OneHandTowerShield"
+      },
+      {
+        "key": 290503,
+        "item_name": "Lifsoth Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Lipsort_OneHandTowerShield"
+      },
+      {
+        "key": 290504,
+        "item_name": "Reinforced Warspike Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Tardik_OneHandTowerShield"
+      },
+      {
+        "key": 290506,
+        "item_name": "Thalwynd Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Berkhia_OneHandTowerShield"
+      },
+      {
+        "key": 290508,
+        "item_name": "Lucon Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Lucan_OneHandTowerShield"
+      },
+      {
+        "key": 290509,
+        "item_name": "Rhonid Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Ronied_OneHandTowerShield"
+      },
+      {
+        "key": 290510,
+        "item_name": "Balton Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Monita_OneHandTowerShield"
+      },
+      {
+        "key": 290511,
+        "item_name": "Rekel Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Recle_OneHandTowerShield"
+      },
+      {
+        "key": 290515,
+        "item_name": "Lanford Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Taos_OneHandTowerShield"
+      },
+      {
+        "key": 290516,
+        "item_name": "The Laughing Marionette Shield",
+        "item_type": "Disc0",
+        "string_key": "Gelhouke_OneHandTowerShield"
+      },
+      {
+        "key": 290523,
+        "item_name": "Bekker Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Tulio_OneHandTowerShield"
+      },
+      {
+        "key": 290526,
+        "item_name": "Mass-Produced Large Rekel Shield",
+        "item_type": "Disc0",
+        "string_key": "Dealinger_OneHandTowerShield"
+      },
+      {
+        "key": 290531,
+        "item_name": "Rekel Large Spiked Shield",
+        "item_type": "Disc0",
+        "string_key": "Light_Thorn_OneHandTowerShield"
+      },
+      {
+        "key": 290532,
+        "item_name": "Thorny Warspike Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Artisan_Thorn_OneHandTowerShield"
+      },
+      {
+        "key": 290533,
+        "item_name": "Demenissian Soldier's Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Soldier_OneHandTowerShield"
+      },
+      {
+        "key": 290997,
+        "item_name": "Legion Spearmen's Large Shield",
+        "item_type": "Disc0",
+        "string_key": "Hard_Thorn_OneHandTowerShield"
+      },
+      {
+        "key": 1000027,
+        "item_name": "Kite Shield",
+        "item_type": "Disc0",
+        "string_key": "Kitee_OneHandShield"
+      },
+      {
+        "key": 1000086,
+        "item_name": "Shield of Conviction",
+        "item_type": "Disc0",
+        "string_key": "Stephan_Bleed_Metal_OneHandTowerShield"
+      },
+      {
+        "key": 1000090,
+        "item_name": "Rattan Shield",
+        "item_type": "Disc0",
+        "string_key": "Rattan_Wood_OneHandShield"
+      },
+      {
+        "key": 1000125,
+        "item_name": "Shield of Ringing",
+        "item_type": "Disc0",
+        "string_key": "Sound_OneHandShield"
+      },
+      {
+        "key": 1000182,
+        "item_name": "Kutum Shield",
+        "item_type": "Disc0",
+        "string_key": "AbyssReward_Kutum_TowerShield"
+      },
+      {
+        "key": 1000183,
+        "item_name": "Freesword's Shield",
+        "item_type": "Disc0",
+        "string_key": "Mercenary_OneHandShield"
+      },
+      {
+        "key": 1000201,
+        "item_name": "Runewalker Shield",
+        "item_type": "Disc0",
+        "string_key": "LakeGolem_OnehandShield"
+      },
+      {
+        "key": 1000242,
+        "item_name": "Saint's Blessing",
+        "item_type": "Disc0",
+        "string_key": "Ribentain_Priest_OneHandShield"
+      },
+      {
+        "key": 1000252,
+        "item_name": "Gilded Shield",
+        "item_type": "Disc0",
+        "string_key": "Gilded_OneHandShield"
+      },
+      {
+        "key": 1000253,
+        "item_name": "Large Gilded Shield",
+        "item_type": "Disc0",
+        "string_key": "Gilded_OneHandTowerShield"
+      },
+      {
+        "key": 1000266,
+        "item_name": "Ancient Shield",
+        "item_type": "Disc0",
+        "string_key": "Ancient_Shield"
+      },
+      {
+        "key": 1000394,
+        "item_name": "Demeniss Royal Guard Shield",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Guard_Shield"
+      },
+      {
+        "key": 1000395,
+        "item_name": "Demenissian Silver-Decorated Shield",
+        "item_type": "Disc0",
+        "string_key": "Damian_OneHandShield_IV"
+      },
+      {
+        "key": 1000498,
+        "item_name": "Musket Shield",
+        "item_type": "Disc0",
+        "string_key": "PlainsGuard_OneHandShield"
+      },
+      {
+        "key": 1000499,
+        "item_name": "Royal Guard Shield",
+        "item_type": "Disc0",
+        "string_key": "RoyalGuard_OneHandShield"
+      },
+      {
+        "key": 1000500,
+        "item_name": "Flame Knights Shield",
+        "item_type": "Disc0",
+        "string_key": "FrontierMilitia_OneHandShield"
+      },
+      {
+        "key": 1000519,
+        "item_name": "City Guard's Shield",
+        "item_type": "Disc0",
+        "string_key": "CapitalPatrol_OneHandShield"
+      },
+      {
+        "key": 1000631,
+        "item_name": "Eastern Wanderer's Shield",
+        "item_type": "Disc0",
+        "string_key": "EasternWanderer_OneHandShield"
+      },
+      {
+        "key": 1000657,
+        "item_name": "Artisan's Ornamented Shield",
+        "item_type": "Disc0",
+        "string_key": "Damian_OneHandShield_VI"
+      },
+      {
+        "key": 1000683,
+        "item_name": "Demenissian Gold-Decorated Shield",
+        "item_type": "Disc0",
+        "string_key": "Damian_OneHandShield"
+      },
+      {
+        "key": 1000761,
+        "item_name": "Shield of Betrayal",
+        "item_type": "Disc0",
+        "string_key": "Silver_Armor_OneHandTowerShield"
+      },
+      {
+        "key": 1001027,
+        "item_name": "Golden Kerria Shield",
+        "item_type": "Disc0",
+        "string_key": "Damian_OneHandShield_VIII"
+      },
+      {
+        "key": 1001064,
+        "item_name": "Shield of Radiance",
+        "item_type": "Disc0",
+        "string_key": "Damian_OneHandShield_VII"
+      },
+      {
+        "key": 1001073,
+        "item_name": "Twisted Thorns",
+        "item_type": "Disc0",
+        "string_key": "Desert_Abyss_Wraith_OneHandShield"
+      },
+      {
+        "key": 1001147,
+        "item_name": "Grey Wolf Wooden Shield",
+        "item_type": "Disc0",
+        "string_key": "Wood_OneHandShield"
+      },
+      {
+        "key": 1001192,
+        "item_name": "Gale Shield",
+        "item_type": "Disc0",
+        "string_key": "Wind_Power_OneHandShield"
+      },
+      {
+        "key": 1001211,
+        "item_name": "Black Sun",
+        "item_type": "Disc0",
+        "string_key": "Bastion_OneHandShield"
+      },
+      {
+        "key": 1001246,
+        "item_name": "Golden Shield",
+        "item_type": "Disc0",
+        "string_key": "Gold_Armor_OneHandShield"
+      },
+      {
+        "key": 1001305,
+        "item_name": "Shotgun Shield",
+        "item_type": "Disc0",
+        "string_key": "Gun_OneHandShield"
+      },
+      {
+        "key": 1001417,
+        "item_name": "North Wind Shield",
+        "item_type": "Disc0",
+        "string_key": "North_Warrior_OneHandTowerShield"
+      },
+      {
+        "key": 1001422,
+        "item_name": "Khaled Shield",
+        "item_type": "Disc0",
+        "string_key": "Gregor_OneHandShield"
+      },
+      {
+        "key": 1001427,
+        "item_name": "Shield of Sacrifice",
+        "item_type": "Disc0",
+        "string_key": "Legendary_Soulknight_OneHandTowerShield"
+      },
+      {
+        "key": 1001428,
+        "item_name": "Shield of the Phantom",
+        "item_type": "Disc0",
+        "string_key": "Soulknight_Sprit_OneHandTowerShield"
+      },
+      {
+        "key": 1002842,
+        "item_name": "Blazing Shield",
+        "item_type": "Disc0",
+        "string_key": "CrimsonFlame_OneHandShield"
+      },
+      {
+        "key": 1002844,
+        "item_name": "Black Oath Shield",
+        "item_type": "Disc0",
+        "string_key": "BlackOath_OneHandShield"
+      },
+      {
+        "key": 1002846,
+        "item_name": "Odeck Hardwood Shield",
+        "item_type": "Disc0",
+        "string_key": "Patrol_OneHandShield"
+      },
+      {
+        "key": 1002847,
+        "item_name": "Oath Ring Shield",
+        "item_type": "Disc0",
+        "string_key": "Oathring_OneHandShield"
+      },
+      {
+        "key": 1003194,
+        "item_name": "Purple Scout Shield",
+        "item_type": "Disc0",
+        "string_key": "Twich_OneHandShield"
+      },
+      {
+        "key": 1003205,
+        "item_name": "Blue Scout Shield",
+        "item_type": "Disc0",
+        "string_key": "Bilibili_OneHandShield"
+      },
+      {
+        "key": 1004543,
+        "item_name": "Frying Pan Lid",
+        "item_type": "Disc0",
+        "string_key": "FryingPan_Lid_OneHandShield"
+      },
+      {
+        "key": 1163043,
+        "item_name": "Bekker Shield",
+        "item_type": "Disc0",
+        "string_key": "Old_Wood_OneHandShield"
+      },
+      {
+        "key": 52011,
+        "item_name": "Double-Sided Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Common_Flag_I"
+      },
+      {
+        "key": 52012,
+        "item_name": "Small Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Common_Flag_II"
+      },
+      {
+        "key": 52020,
+        "item_name": "Small Demenissian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Flag_II"
+      },
+      {
+        "key": 52021,
+        "item_name": "Small Delesyian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Dellesian_Flag_I"
+      },
+      {
+        "key": 52023,
+        "item_name": "Small Black Bears Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Blackbear_Flag_I"
+      },
+      {
+        "key": 52025,
+        "item_name": "Small Dusksongs Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_I"
+      },
+      {
+        "key": 52026,
+        "item_name": "Small Faceless Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_II"
+      },
+      {
+        "key": 52029,
+        "item_name": "Small Wells Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Wells_Flag_I"
+      },
+      {
+        "key": 52031,
+        "item_name": "The Blinding Arrows Small Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Arrow_Flag_I"
+      },
+      {
+        "key": 52033,
+        "item_name": "Small Hellhounds Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Hound_Flag_I"
+      },
+      {
+        "key": 380501,
+        "item_name": "Small Demenissian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Flag"
+      },
+      {
+        "key": 380504,
+        "item_name": "Small Royal Hunting Ground Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Royal_Hunting_Ground_Flag_III"
+      },
+      {
+        "key": 380506,
+        "item_name": "Small Black Bears Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Drunk_BlackBears_Flag"
+      },
+      {
+        "key": 1000124,
+        "item_name": "Small Militia Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Militia_Flag"
+      },
+      {
+        "key": 1000178,
+        "item_name": "Pailunese Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Pailune_Contribution_Flag"
+      },
+      {
+        "key": 1000250,
+        "item_name": "Small Calphadean Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Calphade_Flag_I"
+      },
+      {
+        "key": 1000258,
+        "item_name": "Anti-Caliburn Signboard",
+        "item_type": "Disc0",
+        "string_key": "Anti_Caliburn_Picket"
+      },
+      {
+        "key": 1000439,
+        "item_name": "Small Caliburn's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Caliburn_Flag"
+      },
+      {
+        "key": 1000440,
+        "item_name": "Small Wells Brigade Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Wells_Brigade_Flag"
+      },
+      {
+        "key": 1000442,
+        "item_name": "Small Calphadean Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "UnyieldingShields_Flag"
+      },
+      {
+        "key": 1000556,
+        "item_name": "Hernandian Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Hernand_Contribution_Flag"
+      },
+      {
+        "key": 1000632,
+        "item_name": "Calphadean Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Calphade_Contribution_Flag"
+      },
+      {
+        "key": 1000688,
+        "item_name": "Demenissian Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Contribution_Flag"
+      },
+      {
+        "key": 1000770,
+        "item_name": "Delesyian Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Delesyian_Contribution_Flag"
+      },
+      {
+        "key": 1000795,
+        "item_name": "Small Vellua Pirates Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Storm_Cliff_Flag"
+      },
+      {
+        "key": 1001083,
+        "item_name": "Damaged Medium Calphadean Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Shield_Flag_IV"
+      },
+      {
+        "key": 1001084,
+        "item_name": "Small Vellua Pirates Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Storm_Cliff_Flag_I"
+      },
+      {
+        "key": 1001088,
+        "item_name": "Small Caliburn's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Caliburn_Flag_I"
+      },
+      {
+        "key": 1001772,
+        "item_name": "Varnian Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Varnia_Contribution_Flag"
+      },
+      {
+        "key": 1001804,
+        "item_name": "Tommasoan Contribution Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Tashkalp_Contribution_Flag"
+      },
+      {
+        "key": 1001818,
+        "item_name": "Small Halberd of Carnage's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Fort_Flag_02"
+      },
+      {
+        "key": 1001820,
+        "item_name": "Small Pailunese Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "pailloon_Flag_I"
+      },
+      {
+        "key": 1001821,
+        "item_name": "Small Wyvernflames Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Wyvern_Flag_I"
+      },
+      {
+        "key": 1001822,
+        "item_name": "Small Tommaso Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "tommaso_Flag_I"
+      },
+      {
+        "key": 1001823,
+        "item_name": "Small Varnian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "barnia_Flag_I"
+      },
+      {
+        "key": 1001824,
+        "item_name": "Small Twilight Messengers Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_III"
+      },
+      {
+        "key": 1001825,
+        "item_name": "Small Ironflame Orcs Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Orc_Flag_I"
+      },
+      {
+        "key": 1001826,
+        "item_name": "Small Marni Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "marni_Flag_I"
+      },
+      {
+        "key": 1001827,
+        "item_name": "Small Flame Knights Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "dragonkiller_Flag_I"
+      },
+      {
+        "key": 1001828,
+        "item_name": "Small Bleed Bandits Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Bleed_Flag_II"
+      },
+      {
+        "key": 1001829,
+        "item_name": "Small Staglord Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "deerking_Flag_I"
+      },
+      {
+        "key": 1001830,
+        "item_name": "Small Hernandian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Hernand_Flag_I"
+      },
+      {
+        "key": 1001831,
+        "item_name": "Small Demenissian Noble's Banner",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_I"
+      },
+      {
+        "key": 1001832,
+        "item_name": "Small Demenissian Noble's Banner",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_II"
+      },
+      {
+        "key": 1001833,
+        "item_name": "Small Demenissian Noble's Banner",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_III"
+      },
+      {
+        "key": 1001834,
+        "item_name": "Tiny Greymane Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "graymane_Flag_I"
+      },
+      {
+        "key": 1001925,
+        "item_name": "Black Bears Banner Pike with Tassel",
+        "item_type": "Disc0",
+        "string_key": "Blackbear_Flag_IV"
+      },
+      {
+        "key": 1002158,
+        "item_name": "Medium Demenissian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Demeniss_Flag_III"
+      },
+      {
+        "key": 1003165,
+        "item_name": "Medium Black Bears Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Blackbear_Flag_II"
+      },
+      {
+        "key": 1003166,
+        "item_name": "Medium Bleed Bandits Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Bleed_Flag_III"
+      },
+      {
+        "key": 1003167,
+        "item_name": "Medium Caliburn's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Caliburn_Flag_II"
+      },
+      {
+        "key": 1003168,
+        "item_name": "Medium Calphadean Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Calphade_Flag_II"
+      },
+      {
+        "key": 1003169,
+        "item_name": "Medium Staglord Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "deerking_Flag_II"
+      },
+      {
+        "key": 1003170,
+        "item_name": "Medium Delesyian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Dellesian_Flag_II"
+      },
+      {
+        "key": 1003171,
+        "item_name": "Medium Dewhaven Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Dewhaven_Flag_II"
+      },
+      {
+        "key": 1003322,
+        "item_name": "Small Dewhaven Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Dewhaven_Flag_I"
+      },
+      {
+        "key": 1003323,
+        "item_name": "Medium Demenissian Noble's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_IV"
+      },
+      {
+        "key": 1003324,
+        "item_name": "Medium Demenissian Noble's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_V"
+      },
+      {
+        "key": 1003325,
+        "item_name": "Medium Demenissian Noble's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "demenissnobility_Flag_VI"
+      },
+      {
+        "key": 1003326,
+        "item_name": "Small Greymane Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "graymane_Flag_II"
+      },
+      {
+        "key": 1003327,
+        "item_name": "Small Musket of Demeniss Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "musket_Flag_I"
+      },
+      {
+        "key": 1003328,
+        "item_name": "Small Heavy Silence Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "silence_Flag_I"
+      },
+      {
+        "key": 1003337,
+        "item_name": "Medium Dusksongs Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_IV"
+      },
+      {
+        "key": 1003338,
+        "item_name": "Medium Faceless Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_V"
+      },
+      {
+        "key": 1003339,
+        "item_name": "Medium Ironflame Orcs Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Orc_Flag_II"
+      },
+      {
+        "key": 1003340,
+        "item_name": "Medium Greymane Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "graymane_Flag_III"
+      },
+      {
+        "key": 1003341,
+        "item_name": "Medium Hellhounds Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Hound_Flag_II"
+      },
+      {
+        "key": 1003342,
+        "item_name": "Medium Hernandian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Hernand_Flag_II"
+      },
+      {
+        "key": 1003343,
+        "item_name": "Medium Marni Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "marni_Flag_II"
+      },
+      {
+        "key": 1003344,
+        "item_name": "Medium Musket of Demeniss Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "musket_Flag_II"
+      },
+      {
+        "key": 1003345,
+        "item_name": "Medium Pailunese Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "pailloon_Flag_II"
+      },
+      {
+        "key": 1003346,
+        "item_name": "Medium Vellua Pirate Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Storm_Cliff_Flag_II"
+      },
+      {
+        "key": 1003347,
+        "item_name": "Medium Heavy Silence Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "silence_Flag_II"
+      },
+      {
+        "key": 1003348,
+        "item_name": "The Blinding Arrows Medium Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Arrow_Flag_II"
+      },
+      {
+        "key": 1003349,
+        "item_name": "Medium Halberd of Carnage's Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Fort_Flag_03"
+      },
+      {
+        "key": 1003350,
+        "item_name": "Medium Tommaso Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "tommaso_Flag_II"
+      },
+      {
+        "key": 1003351,
+        "item_name": "Medium Twilight Messengers Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "fort_Flag_VI"
+      },
+      {
+        "key": 1003352,
+        "item_name": "Medium Varnian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "barnia_Flag_II"
+      },
+      {
+        "key": 1003353,
+        "item_name": "Medium Wells Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Wells_Flag_II"
+      },
+      {
+        "key": 1003354,
+        "item_name": "Medium Wyvernflames Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Wyvern_Flag_II"
+      },
+      {
+        "key": 1003355,
+        "item_name": "Medium Flame Knights Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "dragonkiller_Flag_II"
+      },
+      {
+        "key": 1004111,
+        "item_name": "Antumbra Sign",
+        "item_type": "Disc0",
+        "string_key": "Antumbra_Picket"
+      },
+      {
+        "key": 254143257,
+        "item_name": "Small Delesyian Banner Pike",
+        "item_type": "Disc0",
+        "string_key": "Delesyian_Flag"
       }
     ]
   }
