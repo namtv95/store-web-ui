@@ -3488,6 +3488,396 @@
         "string_key": "Recipe_BoiledPork"
       },
       {
+        "key": 1004641,
+        "item_name": "Blueprint: Grindstone",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_blacksmithstone"
+      },
+      {
+        "key": 1004642,
+        "item_name": "Blueprint: Anvil",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_anvil_01"
+      },
+      {
+        "key": 1004643,
+        "item_name": "Blueprint: Field Pot",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_04"
+      },
+      {
+        "key": 1004644,
+        "item_name": "Blueprint: Bonfire",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_craft_cook_campfire_05"
+      },
+      {
+        "key": 1004645,
+        "item_name": "Blueprint: Tripod Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_01_on"
+      },
+      {
+        "key": 1004646,
+        "item_name": "Blueprint: Tall Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_03_on"
+      },
+      {
+        "key": 1004647,
+        "item_name": "Blueprint: Short Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_04_on"
+      },
+      {
+        "key": 1004648,
+        "item_name": "Blueprint: Wind-Guarded Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_05_on"
+      },
+      {
+        "key": 1004649,
+        "item_name": "Blueprint: Hexagonal Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_firepot_06_on"
+      },
+      {
+        "key": 1004650,
+        "item_name": "Blueprint: Quad-Base Crown of Thorns Brazier",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_brazier_02_on"
+      },
+      {
+        "key": 1004651,
+        "item_name": "Blueprint: Tripod Guide Torch",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_standtorch_01_on"
+      },
+      {
+        "key": 1004652,
+        "item_name": "Blueprint: Tripod Guardian Torch",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_standtorch_02_on"
+      },
+      {
+        "key": 1004653,
+        "item_name": "Blueprint: Rope Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0001"
+      },
+      {
+        "key": 1004654,
+        "item_name": "Blueprint: Pheasant Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0002"
+      },
+      {
+        "key": 1004655,
+        "item_name": "Blueprint: Four-Way Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0003"
+      },
+      {
+        "key": 1004656,
+        "item_name": "Blueprint: Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0004"
+      },
+      {
+        "key": 1004657,
+        "item_name": "Blueprint: Crow Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0005"
+      },
+      {
+        "key": 1004658,
+        "item_name": "Blueprint: Stone Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0006"
+      },
+      {
+        "key": 1004659,
+        "item_name": "Blueprint: Red-Crowned Crane Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0007"
+      },
+      {
+        "key": 1004660,
+        "item_name": "Blueprint: Stone Nest Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0008"
+      },
+      {
+        "key": 1004661,
+        "item_name": "Blueprint: Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0009"
+      },
+      {
+        "key": 1004662,
+        "item_name": "Blueprint: Twin-Branched Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_sotdae_set_0010"
+      },
+      {
+        "key": 1004663,
+        "item_name": "Blueprint: Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03"
+      },
+      {
+        "key": 1004664,
+        "item_name": "Blueprint: Red Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03_index01"
+      },
+      {
+        "key": 1004665,
+        "item_name": "Blueprint: Bright Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_lamp_streetlamp_03_index02"
+      },
+      {
+        "key": 1004666,
+        "item_name": "Blueprint: Cold Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001"
+      },
+      {
+        "key": 1004667,
+        "item_name": "Blueprint: Warm Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index01"
+      },
+      {
+        "key": 1004668,
+        "item_name": "Blueprint: Soft Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_lamp_streetlamp_0001_index02"
+      },
+      {
+        "key": 1004669,
+        "item_name": "Blueprint: Wooden Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_01"
+      },
+      {
+        "key": 1004670,
+        "item_name": "Blueprint: Wooden Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_02"
+      },
+      {
+        "key": 1004671,
+        "item_name": "Blueprint: Wooden Purple Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_03"
+      },
+      {
+        "key": 1004672,
+        "item_name": "Blueprint: Redtree Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_hanger_streetlamp_flowerpot_04"
+      },
+      {
+        "key": 1004673,
+        "item_name": "Blueprint: Wooden Pororin Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_01"
+      },
+      {
+        "key": 1004674,
+        "item_name": "Blueprint: Wooden Florindale Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_tool_FlowerHanger_02"
+      },
+      {
+        "key": 1004675,
+        "item_name": "Blueprint: Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0001"
+      },
+      {
+        "key": 1004676,
+        "item_name": "Blueprint: Red Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0001_index01"
+      },
+      {
+        "key": 1004677,
+        "item_name": "Blueprint: Brick Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0002"
+      },
+      {
+        "key": 1004678,
+        "item_name": "Blueprint: Thatched Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0003"
+      },
+      {
+        "key": 1004679,
+        "item_name": "Blueprint: Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0004"
+      },
+      {
+        "key": 1004680,
+        "item_name": "Blueprint: Redsand Well",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_well_0004_index01"
+      },
+      {
+        "key": 1004681,
+        "item_name": "Blueprint: Brookfield Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_drinkingfountain_01"
+      },
+      {
+        "key": 1004682,
+        "item_name": "Blueprint: Lion Head Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_01"
+      },
+      {
+        "key": 1004683,
+        "item_name": "Blueprint: Leaf Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_09"
+      },
+      {
+        "key": 1004684,
+        "item_name": "Blueprint: Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_02"
+      },
+      {
+        "key": 1004685,
+        "item_name": "Blueprint: Redsand Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_02_desert"
+      },
+      {
+        "key": 1004686,
+        "item_name": "Blueprint: Silent Gazer Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_dpf_fountain_06"
+      },
+      {
+        "key": 1004687,
+        "item_name": "Blueprint: Sculpted Fish Fountain",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_fountain_statue_02"
+      },
+      {
+        "key": 1004695,
+        "item_name": "Blueprint: Pororin Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_catwheel_01"
+      },
+      {
+        "key": 1004696,
+        "item_name": "Blueprint: Marni Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_catwheel_02"
+      },
+      {
+        "key": 1004697,
+        "item_name": "Blueprint: Clanging Little Knight",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0001"
+      },
+      {
+        "key": 1004698,
+        "item_name": "Blueprint: Clanging Red Jester",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0002"
+      },
+      {
+        "key": 1004699,
+        "item_name": "Blueprint: Clanging King",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0003"
+      },
+      {
+        "key": 1004700,
+        "item_name": "Blueprint: VZ-O and Z-One",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_Collection_Prop_Automata_0004"
+      },
+      {
+        "key": 1004828,
+        "item_name": "Blueprint: Faust's Music Box",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_jukebox_0001"
+      },
+      {
+        "key": 1004701,
+        "item_name": "Blueprint: Round Twilight Floral Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0001"
+      },
+      {
+        "key": 1004702,
+        "item_name": "Blueprint: Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0002"
+      },
+      {
+        "key": 1004703,
+        "item_name": "Blueprint: Frost-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0003"
+      },
+      {
+        "key": 1004704,
+        "item_name": "Blueprint: Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0004"
+      },
+      {
+        "key": 1004705,
+        "item_name": "Blueprint: Rhombic Vermillion Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0005"
+      },
+      {
+        "key": 1004706,
+        "item_name": "Blueprint: Large Twilight Floral Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006"
+      },
+      {
+        "key": 1004707,
+        "item_name": "Blueprint: Large Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0006_index01"
+      },
+      {
+        "key": 1004708,
+        "item_name": "Blueprint: Large Stone Knotted Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0007"
+      },
+      {
+        "key": 1004709,
+        "item_name": "Blueprint: Sunset Plaid Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008"
+      },
+      {
+        "key": 1004710,
+        "item_name": "Blueprint: Double Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0008_index01"
+      },
+      {
+        "key": 1004711,
+        "item_name": "Blueprint: Large Rosy Dragonscale Carpet",
+        "item_type": "Disc0",
+        "string_key": "Recipe_Item_gimmick_in_dpf_carpet_0009"
+      },
+      {
         "key": 80003,
         "item_name": "Recipe: Fruit Tea",
         "item_type": "Disc0",
@@ -10964,6 +11354,354 @@
         "item_name": "Replica - Idle Hands",
         "item_type": "Disc0",
         "string_key": "Collection_Prop_Picture_0016"
+      },
+      {
+        "key": 1004637,
+        "item_name": "Wide Dawndrop Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_in_dpf_carpet_0013"
+      },
+      {
+        "key": 1004638,
+        "item_name": "Round Wide Mist-woven Carpet",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_in_dpf_carpet_0014"
+      },
+      {
+        "key": 1004639,
+        "item_name": "Wide Multicolor Knotted Carpet",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_in_dpf_carpet_0015"
+      },
+      {
+        "key": 1004640,
+        "item_name": "Round Wide Moonlit Garden Carpet",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_in_dpf_carpet_0016"
+      },
+      {
+        "key": 1004560,
+        "item_name": "Grindstone",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_tool_blacksmithstone"
+      },
+      {
+        "key": 1004595,
+        "item_name": "Anvil",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_craft_anvil_01"
+      },
+      {
+        "key": 1004596,
+        "item_name": "Field Pot",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_craft_cook_campfire_04"
+      },
+      {
+        "key": 1004597,
+        "item_name": "Bonfire",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_craft_cook_campfire_05"
+      },
+      {
+        "key": 1004598,
+        "item_name": "Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0001"
+      },
+      {
+        "key": 1004599,
+        "item_name": "Red Wooden Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0001_index01"
+      },
+      {
+        "key": 1004600,
+        "item_name": "Brick Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0002"
+      },
+      {
+        "key": 1004601,
+        "item_name": "Thatched Roof Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0003"
+      },
+      {
+        "key": 1004602,
+        "item_name": "Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0004"
+      },
+      {
+        "key": 1004603,
+        "item_name": "Redsand Well",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_well_0004_index01"
+      },
+      {
+        "key": 1004588,
+        "item_name": "Brookfield Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_drinkingfountain_01"
+      },
+      {
+        "key": 1004589,
+        "item_name": "Lion Head Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_dpf_fountain_01"
+      },
+      {
+        "key": 1004590,
+        "item_name": "Leaf Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_dpf_fountain_09"
+      },
+      {
+        "key": 1004591,
+        "item_name": "Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_dpf_fountain_02"
+      },
+      {
+        "key": 1004592,
+        "item_name": "Redsand Stone Pagoda Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_dpf_fountain_02_desert"
+      },
+      {
+        "key": 1004593,
+        "item_name": "Silent Gazer Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_dpf_fountain_06"
+      },
+      {
+        "key": 1004771,
+        "item_name": "Sculpted Fish Fountain",
+        "item_type": "Disc0",
+        "string_key": "Item_fountain_statue_01"
+      },
+      {
+        "key": 1004582,
+        "item_name": "Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_streetlamp_03"
+      },
+      {
+        "key": 1004583,
+        "item_name": "Red Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_streetlamp_03_index01"
+      },
+      {
+        "key": 1004584,
+        "item_name": "Bright Wooden Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_streetlamp_03_index02"
+      },
+      {
+        "key": 1004585,
+        "item_name": "Cold Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_lamp_streetlamp_0001"
+      },
+      {
+        "key": 1004586,
+        "item_name": "Warm Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_lamp_streetlamp_0001_index01"
+      },
+      {
+        "key": 1004587,
+        "item_name": "Soft Streetlight",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_lamp_streetlamp_0001_index02"
+      },
+      {
+        "key": 1004623,
+        "item_name": "Tripod Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_firepot_01_on"
+      },
+      {
+        "key": 1004624,
+        "item_name": "Tall Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_firepot_03_on"
+      },
+      {
+        "key": 1004625,
+        "item_name": "Short Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_firepot_04_on"
+      },
+      {
+        "key": 1004626,
+        "item_name": "Wind-Guarded Quad-Base Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_firepot_05_on"
+      },
+      {
+        "key": 1004627,
+        "item_name": "Hexagonal Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_firepot_06_on"
+      },
+      {
+        "key": 1004628,
+        "item_name": "Quad-Base Crown of Thorns Brazier",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_brazier_02_on"
+      },
+      {
+        "key": 1004629,
+        "item_name": "Tripod Guide Torch",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_standtorch_01_on"
+      },
+      {
+        "key": 1004630,
+        "item_name": "Tripod Guardian Torch",
+        "item_type": "Disc0",
+        "string_key": "Item_lamp_standtorch_02_on"
+      },
+      {
+        "key": 1004537,
+        "item_name": "Clanging Little Knight",
+        "item_type": "Disc0",
+        "string_key": "Item_Collection_Prop_Automata_0001"
+      },
+      {
+        "key": 1004538,
+        "item_name": "Clanging Red Jester",
+        "item_type": "Disc0",
+        "string_key": "Item_Collection_Prop_Automata_0002"
+      },
+      {
+        "key": 1004539,
+        "item_name": "Clanging King",
+        "item_type": "Disc0",
+        "string_key": "Item_Collection_Prop_Automata_0003"
+      },
+      {
+        "key": 1004540,
+        "item_name": "VZ-O and Z-One",
+        "item_type": "Disc0",
+        "string_key": "Item_Collection_Prop_Automata_0004"
+      },
+      {
+        "key": 1004581,
+        "item_name": "Faust's Music Box",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_jukebox_0001"
+      },
+      {
+        "key": 1004577,
+        "item_name": "Wooden Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_hanger_streetlamp_flowerpot_01"
+      },
+      {
+        "key": 1004578,
+        "item_name": "Wooden Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_hanger_streetlamp_flowerpot_02"
+      },
+      {
+        "key": 1004579,
+        "item_name": "Wooden Purple Gerbera Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_hanger_streetlamp_flowerpot_03"
+      },
+      {
+        "key": 1004580,
+        "item_name": "Redtree Violet Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_hanger_streetlamp_flowerpot_04"
+      },
+      {
+        "key": 1004565,
+        "item_name": "Wooden Pororin Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_tool_FlowerHanger_01"
+      },
+      {
+        "key": 1004566,
+        "item_name": "Wooden Florindale Hanging Planter",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_tool_FlowerHanger_02"
+      },
+      {
+        "key": 1004567,
+        "item_name": "Rope Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0001"
+      },
+      {
+        "key": 1004568,
+        "item_name": "Pheasant Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0002"
+      },
+      {
+        "key": 1004569,
+        "item_name": "Four-Way Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0003"
+      },
+      {
+        "key": 1004570,
+        "item_name": "Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0004"
+      },
+      {
+        "key": 1004571,
+        "item_name": "Crow Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0005"
+      },
+      {
+        "key": 1004572,
+        "item_name": "Stone Duck Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0006"
+      },
+      {
+        "key": 1004573,
+        "item_name": "Red-Crowned Crane Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0007"
+      },
+      {
+        "key": 1004574,
+        "item_name": "Stone Nest Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0008"
+      },
+      {
+        "key": 1004575,
+        "item_name": "Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0009"
+      },
+      {
+        "key": 1004576,
+        "item_name": "Twin-Branched Sotdae",
+        "item_type": "Disc0",
+        "string_key": "Item_gimmick_sotdae_set_0010"
+      },
+      {
+        "key": 1004606,
+        "item_name": "Pororin Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Item_catwheel_01"
+      },
+      {
+        "key": 1004607,
+        "item_name": "Marni Cat Wheel",
+        "item_type": "Disc0",
+        "string_key": "Item_catwheel_02"
       },
       {
         "key": 1001450,
