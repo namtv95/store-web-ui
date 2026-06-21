@@ -18526,10 +18526,40 @@
         "string_key": "Hyosi_Arrow"
       },
       {
+        "key": 50057,
+        "item_name": "Bundle of Arrows",
+        "item_type": "Disc0",
+        "string_key": "MultiArrow"
+      },
+      {
         "key": 1000070,
         "item_name": "Sleep Arrow",
         "item_type": "Disc0",
         "string_key": "Sleep_Arrow"
+      },
+      {
+        "key": 1000224,
+        "item_name": "Bundle of Arrows",
+        "item_type": "Disc0",
+        "string_key": "MultiArrow_Package_Small"
+      },
+      {
+        "key": 1001314,
+        "item_name": "Chill Arrow",
+        "item_type": "Disc0",
+        "string_key": "Ice_Arrow"
+      },
+      {
+        "key": 1001315,
+        "item_name": "Blitz Arrow",
+        "item_type": "Disc0",
+        "string_key": "Lightning_Arrow"
+      },
+      {
+        "key": 1001316,
+        "item_name": "Fire Arrow",
+        "item_type": "Disc0",
+        "string_key": "Fire_Arrow"
       },
       {
         "key": 1001321,
@@ -18538,10 +18568,10 @@
         "string_key": "Bomb_Arrow"
       },
       {
-        "key": 1002557,
-        "item_name": "Replenishing Arrows",
+        "key": 1000026,
+        "item_name": "Bundle of Bullets",
         "item_type": "Disc0",
-        "string_key": "Quiver"
+        "string_key": "MultiBullet"
       },
       {
         "key": 1000372,
@@ -18562,10 +18592,10 @@
         "string_key": "Silver_Bullet"
       },
       {
-        "key": 1003753,
-        "item_name": "Replenishing Bullets",
+        "key": 1003653,
+        "item_name": "Bundle of Bullets",
         "item_type": "Disc0",
-        "string_key": "Continuous_Supply_Bullet"
+        "string_key": "MultiBullet_Package_Small"
       },
       {
         "key": 1000152,
@@ -18620,6 +18650,54 @@
         "item_name": "Snow Magic Bullet",
         "item_type": "Disc0",
         "string_key": "MagicBullet_Snow"
+      },
+      {
+        "key": 1000017,
+        "item_name": "Crude Itano Cannonball",
+        "item_type": "Disc0",
+        "string_key": "Itano_CannonBall_Errant"
+      },
+      {
+        "key": 1000018,
+        "item_name": "Crude Bismuth Cannonball",
+        "item_type": "Disc0",
+        "string_key": "Bismuth_CannonBall_Errant"
+      },
+      {
+        "key": 1000063,
+        "item_name": "Bundle of Cannonballs",
+        "item_type": "Disc0",
+        "string_key": "MultiCannonBall"
+      },
+      {
+        "key": 1000692,
+        "item_name": "Small Cannonball",
+        "item_type": "Disc0",
+        "string_key": "CannonBall"
+      },
+      {
+        "key": 1001773,
+        "item_name": "Disruptor Cannonball",
+        "item_type": "Disc0",
+        "string_key": "Marni_Special_CannonBall"
+      },
+      {
+        "key": 1001884,
+        "item_name": "Mine Spider Cannonball",
+        "item_type": "Disc0",
+        "string_key": "BombSpider_CannonBall"
+      },
+      {
+        "key": 1001935,
+        "item_name": "Itano Cannonball",
+        "item_type": "Disc0",
+        "string_key": "Itano_CannonBall"
+      },
+      {
+        "key": 1003654,
+        "item_name": "Bundle of Cannonballs",
+        "item_type": "Disc0",
+        "string_key": "MultiCannonBall_Package_Small"
       },
       {
         "key": 53032,
