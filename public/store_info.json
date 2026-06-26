@@ -1,8 +1,8 @@
 [
   {
-    "name": "Calphade",
+    "name": "Adrina",
     "job_name": "Tailor's Shop",
-    "icon": "calphade",
+    "icon": "adrina",
     "localtion": "",
     "sell_list": [
       {
@@ -18688,9 +18688,9 @@
     ]
   },
   {
-    "name": "Varnia",
+    "name": "Nora",
     "job_name": "Tailor's Shop",
-    "icon": "varnia",
+    "icon": "nora",
     "localtion": "",
     "sell_list": [
       {
